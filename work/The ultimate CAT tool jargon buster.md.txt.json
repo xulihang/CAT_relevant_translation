@@ -125,98 +125,134 @@
                 ],
                 [
                     "I simply feel I have neither the knowledge nor the authority to do that, and anyways, thataway be dragons.",
-                    "我只是觉得我对于其它工具并不了解，也没有这个权威性。不管怎么说，那是龙。",
+                    "我只是觉得我对于其它工具并不了解，也没有这个权威性，对于未知领域要保持谨慎。",
                     " I simply feel I have neither the knowledge nor the authority to do that, and anyways, thataway be dragons.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "note": "thataway be dragons 表示危险，类似于Here be dragons",
                         "creator": "xulihang",
-                        "createdTime": "1551869522716"
+                        "createdTime": "1551870060248"
                     }
                 ],
                 [
                     "If you like what you see here, do share it with your friends, colleagues and enemies: there are handy buttons for this purpose on the right.",
-                    "",
+                    "如果你喜欢本文，欢迎分享给你的朋友、同事和对手。",
                     "\r\n\r\nIf you like what you see here, do share it with your friends, colleagues and enemies: there are handy buttons for this purpose on the right.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551870116088"
+                    }
                 ],
                 [
                     "And if you find any minor or major errors or inaccuracies, give me a shout through your preferred social media channel!",
-                    "",
+                    "如果你发现任何错误或者不准确的地方，可以选择你喜欢的沟通方式给我反馈。",
                     " And if you find any minor or major errors or inaccuracies, give me a shout through your preferred social media channel!",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551870180137"
+                    }
                 ],
                 [
                     "### activation",
-                    "",
+                    "### activation 激活",
                     "\r\n\r\n### activation\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551870191385"
+                    }
                 ],
                 [
                     "A short communication between an installed program and the manufacturer's website.",
-                    "",
+                    "激活一般需要访问制造商的网站。",
                     "\r\nA short communication between an installed program and the manufacturer's website.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551870273729"
+                    }
                 ],
                 [
                     "The program sends your serial number and a few anonymous details about your computer.",
-                    "",
+                    "本地程序向远程网站发送一串序列号以及关于你计算机的一些匿名信息。",
                     " The program sends your serial number and a few anonymous details about your computer.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551870333209"
+                    }
                 ],
                 [
                     "The website checks that you own a license or that you are just starting a free trial, and returns a code to authorize the program to run on your computer.",
-                    "",
+                    "如果你拥有证书或者选择的试用版，网站就会返回一串代码，授权程序在你的电脑上运行。",
                     " The website checks that you own a license or that you are just starting a free trial, and returns a code to authorize the program to run on your computer.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551870493256"
+                    }
                 ],
                 [
                     "See also: CAL license",
-                    "",
+                    "另见：CAL许可证（CAL License）",
                     "\r\n\r\nSee also: CAL license\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551870532009"
+                    }
                 ],
                 [
                     "### alignment",
-                    "",
+                    "### 对齐",
                     "\r\n### alignment\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551870548537"
+                    }
                 ],
                 [
                     "Often, when you get a document to translate, you receive a set of previously translated documents along with it, or you can find matching pages on websites.",
-                    "",
+                    "一般你收到一份要翻译的文件时，你还会收到很多之前翻译过的文件和对应的原文，或者你在网络上能找到匹配的内容。",
                     "\r\nOften, when you get a document to translate, you receive a set of previously translated documents along with it, or you can find matching pages on websites.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551870814785"
+                    }
                 ],
                 [
                     "Those may contain a whole lot of translations you could use either as TM matches or through concordancing.",
-                    "",
+                    "这些文件内容很大程度可以用作翻译记忆使用，在模糊匹配和检索时发挥作用。",
                     " Those may contain a whole lot of translations you could use either as TM matches or through concordancing.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551870906465"
+                    }
                 ],
                 [
                     "Problem is, the TM needs segments, and you have whole documents.",
-                    "",
+                    "问题是，翻译记忆是对齐了的句段，而你现在有的是整个文档。",
                     " Problem is, the TM needs segments, and you have whole documents.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551870931848"
+                    }
                 ],
                 [
                     "Alignment means splitting source and target documents into segments, and algorithmically finding out which target segment corresponds to which source segment.",
                     "",
                     " Alignment means splitting source and target documents into segments, and algorithmically finding out which target segment corresponds to which source segment.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551870658632"
+                    }
                 ],
                 [
                     "Not a straightforward thing to do!",
