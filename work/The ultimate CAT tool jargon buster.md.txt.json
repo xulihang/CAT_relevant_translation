@@ -156,12 +156,12 @@
                 ],
                 [
                     "### activation",
-                    "### activation 激活",
+                    "### 激活（activation）",
                     "\r\n\r\n### activation\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1551870191385"
+                        "createdTime": "1551871366169"
                     }
                 ],
                 [
@@ -206,12 +206,12 @@
                 ],
                 [
                     "### alignment",
-                    "### 对齐",
+                    "### 对齐（alignment）",
                     "\r\n### alignment\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1551870548537"
+                        "createdTime": "1551871374906"
                     }
                 ],
                 [
@@ -246,188 +246,263 @@
                 ],
                 [
                     "Alignment means splitting source and target documents into segments, and algorithmically finding out which target segment corresponds to which source segment.",
-                    "",
+                    "对齐指将源文档和目标文档拆分成片段，并利用算法找出目标片段对应于哪个源文片段。",
                     " Alignment means splitting source and target documents into segments, and algorithmically finding out which target segment corresponds to which source segment.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1551870658632"
+                        "createdTime": "1551871114074"
                     }
                 ],
                 [
                     "Not a straightforward thing to do!",
-                    "",
+                    "这可不是一件简单的事！",
                     " Not a straightforward thing to do!",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551871123732"
+                    }
                 ],
                 [
                     "Advanced CAT tools have a function to automate the bulk of the work and help you correct the rest.",
-                    "",
+                    "高级CAT软件可以做到大致的句段自动对齐，并帮助你修正对齐错误的句段。",
                     " Advanced CAT tools have a function to automate the bulk of the work and help you correct the rest.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551871330663"
+                    }
                 ],
                 [
                     "See also: LiveAlign",
-                    "",
+                    "另见：LiveAlign",
                     "\r\n\r\nSee also: LiveAlign\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551871240336"
+                    }
                 ],
                 [
                     "### analysis",
-                    "",
+                    "### 分析（analysis）",
                     "\r\n### analysis\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551871382176"
+                    }
                 ],
                 [
                     "Before you accept a job, you need to know how much text there is to translate.",
-                    "",
+                    "在你接受一份任务前，你需要知道有多少文本需要翻译。",
                     "\r\nBefore you accept a job, you need to know how much text there is to translate.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551878064497"
+                    }
                 ],
                 [
                     "But you already have TMs with past translations, so you also want to know how much new text there is, and how many fuzzy or exact matches you can expect.",
-                    "",
+                    "但是你已经有了包含过去翻译的翻译记忆，所以您还想知道有多少新的文本需要翻译，有多少模糊匹配和精确匹配。",
                     " But you already have TMs with past translations, so you also want to know how much new text there is, and how many fuzzy or exact matches you can expect.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551878150192"
+                    }
                 ],
                 [
                     "That's what analysis does: it compares your text against your TMs and corpora, and gives you a neat breakdown expressed in segment, word and character counts.",
-                    "",
+                    "这就是分析所做的：它对要翻译的文本和翻译记忆与语料库中的文本进行比对，并给你一个清晰的统计结果，包括句段、词和字符数。",
                     " That's what analysis does: it compares your text against your TMs and corpora, and gives you a neat breakdown expressed in segment, word and character counts.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551878236826"
+                    }
                 ],
                 [
                     "Analysis is sometimes used interchangeably with statistics, which has absolutely no fancy scientific meaning in this context.",
-                    "",
+                    "“分析”有时也可以和“统计”这个词互换使用，在这种情况下，统计并不是一门高深的学科。",
                     "\r\n\r\nAnalysis is sometimes used interchangeably with statistics, which has absolutely no fancy scientific meaning in this context.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551878382010"
+                    }
                 ],
                 [
                     "### API; application programming interface",
-                    "",
+                    "### 应用程序编程接口（API）",
                     "\r\n\r\n### API; application programming interface\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551878396330"
+                    }
                 ],
                 [
                     "A nerdy term to say that a program allows other programs to use its functions, just as if a human was clicking its buttons.",
-                    "",
+                    "一个计算机术语，指一个程序允许其它程序通过某种方式使用它的功能，就像用户通过点击按钮来使用程序。",
                     "\r\nA nerdy term to say that a program allows other programs to use its functions, just as if a human was clicking its buttons.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551878500328"
+                    }
                 ],
                 [
                     "If a program has no API, then it's impossible to integrate it with other systems, and humans end up with tendonitis from lots of completely unnecessary clicking.",
-                    "",
+                    "如果一个程序没有API，那么它就不能与其它系统集成，用户最终会因为大量完全不必要的点击而患上肌腱炎。",
                     " If a program has no API, then it's impossible to integrate it with other systems, and humans end up with tendonitis from lots of completely unnecessary clicking.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551878556082"
+                    }
                 ],
                 [
                     "It is particularly important to make sure a cloud-based tool you're considering has an API.",
-                    "",
+                    "确保你考虑的基于云的工具提供API，这一点尤为重要。",
                     " It is particularly important to make sure a cloud-based tool you're considering has an API.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551878651229"
+                    }
                 ],
                 [
                     "If it does not, you may get locked in, with no easy way to retrieve your data if you want to switch.",
-                    "",
+                    "如果不提供，你就没有获得你的数据并和其它程序进行数据交换的简便方法。",
                     " If it does not, you may get locked in, with no easy way to retrieve your data if you want to switch.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551878742379"
+                    }
                 ],
                 [
                     "### auto save on server",
-                    "",
+                    "### 在服务器上自动保存（auto save on server）",
                     "\r\n\r\n### auto save on server\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551881794038"
+                    }
                 ],
                 [
                     "When you're working in a memoQ online project, your translations are initially saved only on your computer.",
-                    "",
+                    "当你在一个memoQ在线项目中工作时，你的翻译最初只保存在你的计算机上。",
                     "\r\nWhen you're working in a memoQ online project, your translations are initially saved only on your computer.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551881977635"
+                    }
                 ],
                 [
                     "You can choose to synchronize a few times a day, but if you enable auto save, your translations are sent to the server immediately, without holding you up.",
-                    "",
+                    "您可以选择每天进行几次同步。如果启用自动保存，在保存时，你的翻译将立即发送到服务器，且不会耽误你的工作。",
                     " You can choose to synchronize a few times a day, but if you enable auto save, your translations are sent to the server immediately, without holding you up.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551882057281"
+                    }
                 ],
                 [
                     "This way others can see your work \\*almost\\* as if you were editing a Google doc in real time.",
-                    "",
+                    "这样别人就可以看到你的工作，且\\*几乎*\\就像你在实时编辑一个谷歌文档。",
                     " This way others can see your work \\*almost\\* as if you were editing a Google doc in real time.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551882106929"
+                    }
                 ],
                 [
                     "What better way to stay consistent?",
-                    "",
+                    "有什么比这更好的方法来保持翻译的一致性？",
                     " What better way to stay consistent?",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551882130467"
+                    }
                 ],
                 [
                     "### automatic concordance",
-                    "",
+                    "### 自动检索（automatic concordance）",
                     "\r\n\r\n### automatic concordance\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551883270113"
+                    }
                 ],
                 [
                     "If you want to see how an expression has been translated, concordance gives you exactly that.",
-                    "",
+                    "如果你想知道某个表达是怎么翻译的，你可以使用检索（concordance）功能。",
                     "\r\nIf you want to see how an expression has been translated, concordance gives you exactly that.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551882207776"
+                    }
                 ],
                 [
                     "But a good CAT tool can do more: by looking at the source segment it can find the parts that occur in a lot of other segments, and point you to them.",
-                    "",
+                    "但是一个好的CAT工具可以做得更多：它可以搜索到在许多句段都存在的内容，并进行高亮。",
                     " But a good CAT tool can do more: by looking at the source segment it can find the parts that occur in a lot of other segments, and point you to them.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551882673729"
+                    }
                 ],
                 [
                     "That's effectively saying, “Hey!",
-                    "",
+                    "这就像是在说，“嘿！",
                     " That's effectively saying, “Hey!",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551882703922"
+                    }
                 ],
                 [
                     "These phrases seem to be all over the place, it's probably a good idea to concordance them right now!”",
-                    "",
+                    "这些短语似乎到处都是，马上对它们进行检索可能是个好主意！”",
                     " These phrases seem to be all over the place, it's probably a good idea to concordance them right now!”",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551884487124"
+                    }
                 ],
                 [
                     "And if you're *very* lucky, those phrases also occur as entire source segments, and the TM or corpus will give you their translation right away.",
-                    "",
+                    "如果你非常*幸运*，这些短语还作为整个原文句段出现，这样可以自动调用翻译记忆或语料库进行翻译。",
                     " And if you're *very* lucky, those phrases also occur as entire source segments, and the TM or corpus will give you their translation right away.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551884442795"
+                    }
                 ],
                 [
                     "### AutoPick",
-                    "",
+                    "### AutoPick",
                     "\r\n\r\n### AutoPick\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1551884502621"
+                    }
                 ],
                 [
                     "I don't know about you, but I hate to type numbers as I'm translating, and I also hate to lose the flow to select, copy and paste something over from the source.",
