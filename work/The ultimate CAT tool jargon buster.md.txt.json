@@ -1106,12 +1106,12 @@
                 ],
                 [
                     "See TM match types",
-                    "参见翻译记忆匹配类型。",
+                    "参见翻译记忆匹配类型",
                     "\r\nSee TM match types\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553428721736"
+                        "createdTime": "1553430058365"
                     }
                 ],
                 [
@@ -1436,12 +1436,12 @@
                 ],
                 [
                     "See TM match types",
-                    "参见翻译记忆匹配类型。",
+                    "参见翻译记忆匹配类型",
                     "\r\nSee TM match types\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553429545750"
+                        "createdTime": "1553430074255"
                     }
                 ],
                 [
@@ -1556,17 +1556,23 @@
                 ],
                 [
                     "In memoQ, the Find function has an option that puts all occurrences on a separate list, instead of walking through them one by one from the pop-up window.",
-                    "",
+                    "在memoq中，查找功能有一个选项，可以将所有的匹配放在一个单独的列表中，而不是用弹出窗口逐个遍历它们。",
                     "\r\nIn memoQ, the Find function has an option that puts all occurrences on a separate list, instead of walking through them one by one from the pop-up window.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553429737709"
+                    }
                 ],
                 [
                     "The outcome is the find\/replace listing, where you can review each segment comfortably and decide where to replace and where to leave as is.",
-                    "",
+                    "结果是用户可以得到一个查找\/替换列表，在这里您可以轻松地查看每个片段，并决定替换的位置和保留的位置。",
                     " The outcome is the find\/replace listing, where you can review each segment comfortably and decide where to replace and where to leave as is.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553429762806"
+                    }
                 ],
                 [
                     "### font substitution",
@@ -1580,24 +1586,33 @@
                 ],
                 [
                     "Many file formats, particularly from DTP tools, tend to use fonts that look really good, but cannot draw a lot of special characters.",
-                    "",
+                    "许多文件格式，特别是DTP工具的文件格式，倾向于使用看起来很好但不能绘制很多特殊字符的字体。",
                     "\r\nMany file formats, particularly from DTP tools, tend to use fonts that look really good, but cannot draw a lot of special characters.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553429819814"
+                    }
                 ],
                 [
                     "If your target language happens to have a lot of these, the translated file will look ugly, or skip letters outright.",
-                    "",
+                    "如果您的目标语言恰好有很多这样的内容，那么翻译后的文件会看起来很难看，或者直接不显示某些字符。",
                     " If your target language happens to have a lot of these, the translated file will look ugly, or skip letters outright.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553429838941"
+                    }
                 ],
                 [
                     "Font substitution is a function of file format filters that tweaks the file, replacing the original font with one that has the right glyphs for your target language.",
-                    "",
+                    "字体替换是文件格式过滤器的一个功能，它可以调整文件，用目标语言的字体替换原始字体。",
                     " Font substitution is a function of file format filters that tweaks the file, replacing the original font with one that has the right glyphs for your target language.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553429857258"
+                    }
                 ],
                 [
                     "### fragment assembly",
@@ -1641,38 +1656,53 @@
                 ],
                 [
                     "First impressions are correct here: this is one of the fuzziest words in the entire industry jargon.",
-                    "",
+                    "这里的第一印象是正确的：这是整个行业术语中最模糊的一个词。",
                     "\r\nFirst impressions are correct here: this is one of the fuzziest words in the entire industry jargon.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553429894129"
+                    }
                 ],
                 [
                     "Initially a *fuzzy match* was used in contrast to an exact match from a TM: you get a translation that is fully legit, except it's the translation of something more or less different from your current source segment.",
-                    "",
+                    "模糊匹配最初是用来和精确匹配形成对比的。模糊匹配的翻译的原文片段和你当前的片段会有些许不同。",
                     " Initially a *fuzzy match* was used in contrast to an exact match from a TM: you get a translation that is fully legit, except it's the translation of something more or less different from your current source segment.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553429984596"
+                    }
                 ],
                 [
                     "Just how different is expressed by the fuzzy match rate.",
-                    "",
+                    "不同的程度用模糊匹配率来表示。",
                     " Just how different is expressed by the fuzzy match rate.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430004077"
+                    }
                 ],
                 [
                     "Eventually fuzzy matching was also extended to terminology, where it can be pretty useful if your language is in the habit of changing letters in the middle of words.",
-                    "",
+                    "最后，模糊匹配也被扩展到了术语，如果你的语言习惯于在单词中间改变字母，那么它会非常有用。",
                     " Eventually fuzzy matching was also extended to terminology, where it can be pretty useful if your language is in the habit of changing letters in the middle of words.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430032960"
+                    }
                 ],
                 [
                     "See also: TM match types",
-                    "",
+                    "参见翻译记忆匹配类型",
                     "\r\n\r\nSee also: TM match types\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430034981"
+                    }
                 ],
                 [
                     "### global find & replace",
@@ -1686,17 +1716,23 @@
                 ],
                 [
                     "In the olden days, the find function only worked if you first opened a document.",
-                    "",
+                    "在过去，只有当您首先打开一个文档时，“查找”功能才起作用。",
                     "\r\nIn the olden days, the find function only worked if you first opened a document.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430096494"
+                    }
                 ],
                 [
                     "Global find & replace searches through all documents in your project: a massive difference if, for instance, your job entails hundreds of tiny XML files from a CMS.",
-                    "",
+                    "全局查找和替换会在项目的所有文档中进行。如果您的工作需要操作来自CMS的数百个小XML文件，这是一个非常方便的操作。",
                     " Global find & replace searches through all documents in your project: a massive difference if, for instance, your job entails hundreds of tiny XML files from a CMS.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430156175"
+                    }
                 ],
                 [
                     "### glossary",
@@ -1710,10 +1746,13 @@
                 ],
                 [
                     "See term base",
-                    "",
+                    "参见术语库",
                     "\r\nSee term base\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430208909"
+                    }
                 ],
                 [
                     "### highlight",
@@ -1727,10 +1766,13 @@
                 ],
                 [
                     "See comment",
-                    "",
+                    "见评论",
                     "\r\nSee comment\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430224798"
+                    }
                 ],
                 [
                     "### homogeneity",
@@ -1784,24 +1826,33 @@
                 ],
                 [
                     "A two-column grid layout where you see source on the left and target on the right has engulfed CAT tools like a flash flood washing away a hapless creekside camper's stock of ABC soup.",
-                    "",
+                    "几乎所有CAT工具都采用了左列原文，右列译文的网格布局，就像一股急流冲走了可怜的河边露营者的ABC汤。",
                     "\r\nA two-column grid layout where you see source on the left and target on the right has engulfed CAT tools like a flash flood washing away a hapless creekside camper's stock of ABC soup.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430482249"
+                    }
                 ],
                 [
                     "But many a translator still prefers to see their target text below the source.",
-                    "",
+                    "但是许多译者仍然喜欢在原文在上，译文在下的显示方式。",
                     " But many a translator still prefers to see their target text below the source.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430599316"
+                    }
                 ],
                 [
                     "The horizontal layout option reshuffles the active segment's dominos, so source and target show up one below the other.",
-                    "",
+                    "水平布局选项可以重新组合活动句段，以原文在上，译文在下的形式展示。",
                     " The horizontal layout option reshuffles the active segment's dominos, so source and target show up one below the other.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430658884"
+                    }
                 ],
                 [
                     "### import",
@@ -1815,10 +1866,13 @@
                 ],
                 [
                     "See file format filter",
-                    "",
+                    "参见文件格式过滤器（file format filter）",
                     "\r\nSee file format filter\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430664843"
+                    }
                 ],
                 [
                     "### inline tags",
@@ -1832,10 +1886,13 @@
                 ],
                 [
                     "See tags",
-                    "",
+                    "参见标签",
                     "\r\nSee tags\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430664843"
+                    }
                 ],
                 [
                     "### internationalization; \\#i18n",
@@ -1849,17 +1906,23 @@
                 ],
                 [
                     "Localizing a product entails more than just translation: it includes things like showing dates in the right format, displaying temperatures in Celsius vs. Fahrenheit, writing first name last or vice versa, and the like.",
-                    "",
+                    "本地化产品需要的不仅仅是翻译：它包括以正确的格式显示日期、以摄氏度和华氏度显示温度、在姓氏后面写名字或反之亦然等内容。",
                     "\r\nLocalizing a product entails more than just translation: it includes things like showing dates in the right format, displaying temperatures in Celsius vs. Fahrenheit, writing first name last or vice versa, and the like.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430695398"
+                    }
                 ],
                 [
                     "It requires extra effort to enable a product to do all this; that effort is called internationalization.",
-                    "",
+                    "它需要额外的努力才能使产品做到这一切；这种努力称为国际化。",
                     " It requires extra effort to enable a product to do all this; that effort is called internationalization.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430702292"
+                    }
                 ],
                 [
                     "### interoperability",
@@ -1873,10 +1936,13 @@
                 ],
                 [
                     "The ability of CAT tools to understand each other's formats and APIs, and to support standard formats well, so that people using software from different manufacturers can work together without drama, tears and major tragedies.",
-                    "",
+                    "CAT工具能够理解彼此的格式和API，并且能够很好地支持标准格式，这样，使用不同制造商的软件的人就可以在一起工作，而不会出现悲剧。",
                     "\r\nThe ability of CAT tools to understand each other's formats and APIs, and to support standard formats well, so that people using software from different manufacturers can work together without drama, tears and major tragedies.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430738116"
+                    }
                 ],
                 [
                     "### join segments",
@@ -1890,10 +1956,13 @@
                 ],
                 [
                     "See segments",
-                    "",
+                    "见句段（segment）",
                     "\r\nSee segments\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430760165"
+                    }
                 ],
                 [
                     "### KWIC; keyword in context",
@@ -1907,10 +1976,13 @@
                 ],
                 [
                     "A layout for concordance results where the search term is in the middle, with preceding and following text on both sides, row after row.",
-                    "",
+                    "一种用于展示检索结果的布局，其中匹配内容位于中间，前后文本位于两边，一行接一行。",
                     "\r\nA layout for concordance results where the search term is in the middle, with preceding and following text on both sides, row after row.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430801782"
+                    }
                 ],
                 [
                     "### leverage",
@@ -1993,24 +2065,33 @@
                 ],
                 [
                     "This term is probably the single biggest crime of the translation industry against proper English usage.",
-                    "",
+                    "这一术语可能是翻译行业对英语的正确使用所犯下的最大的罪行。",
                     "\r\nThis term is probably the single biggest crime of the translation industry against proper English usage.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430971457"
+                    }
                 ],
                 [
                     "For every educated person, a linguist means someone like Noam Chomsky, William Labov, Daniel Everett, or Arrival's Amy Adams: a scientist studying language in the mind, or language in society.",
-                    "",
+                    "对于每一个受过教育的人来说，语言学家指的是像诺姆·乔姆斯基、威廉·拉波夫、丹尼尔·埃弗雷特，或者小说《降临》里的艾米·亚当斯这样的人：一个研究人脑中的语言或社会中的语言的科学家。",
                     " For every educated person, a linguist means someone like Noam Chomsky, William Labov, Daniel Everett, or Arrival's Amy Adams: a scientist studying language in the mind, or language in society.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430944844"
+                    }
                 ],
                 [
                     "In the translation industry, “linguist” is sloppy shorthand for translator or reviewer.",
-                    "",
+                    "在翻译行业，“语言学家”即指是翻译或审校。",
                     " In the translation industry, “linguist” is sloppy shorthand for translator or reviewer.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553430944844"
+                    }
                 ],
                 [
                     "### LiveAlign",
@@ -2024,24 +2105,33 @@
                 ],
                 [
                     "memoQ's approach to alignment, where you simply throw a bag of source and target documents at the tool, and start translating.",
-                    "",
+                    "memoQ的对齐操作名称，只需将一堆源文档和目标文档扔到工具里，就可以进行对齐。",
                     "\r\nmemoQ's approach to alignment, where you simply throw a bag of source and target documents at the tool, and start translating.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553431033068"
+                    }
                 ],
                 [
                     "The tool aligns fist the documents, then their segments, and indexes them in the background so they immediately give you lookup results in the editor.",
-                    "",
+                    "该工具首先对齐文档，然后对齐句段，并在后台对其进行索引，以便能在编辑器中立即检索到结果。",
                     " The tool aligns fist the documents, then their segments, and indexes them in the background so they immediately give you lookup results in the editor.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553431068833"
+                    }
                 ],
                 [
                     "There will inevitably be errors, but you only spend time fixing those that actually give you matches.",
-                    "",
+                    "错误不可避免会有，不多你只需花时间对齐那些匹配到的句段。",
                     " There will inevitably be errors, but you only spend time fixing those that actually give you matches.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553431150169"
+                    }
                 ],
                 [
                     "### LiveDocs corpus",
@@ -2055,38 +2145,53 @@
                 ],
                 [
                     "memoQ's alternative to TMs.",
-                    "",
+                    "memoQ的翻译记忆替代品。",
                     "\r\nmemoQ's alternative to TMs.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553431172668"
+                    }
                 ],
                 [
                     "While a TM holds a homogenous mass of translated segments in no particular order, a LiveDocs corpus preserves entire translated documents, but gives you the same kinds of matches.",
-                    "",
+                    "翻译记忆不按特定顺序保存大量翻译片段，而LiveDocs语料库保留了整个翻译文档，并提供了相同类型的匹配。",
                     " While a TM holds a homogenous mass of translated segments in no particular order, a LiveDocs corpus preserves entire translated documents, but gives you the same kinds of matches.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553431208139"
+                    }
                 ],
                 [
                     "If you want to check the context of a past translation, you can jump directly to the full document from the translation editor.",
-                    "",
+                    "如果要检查过去翻译的上下文，可以直接从翻译编辑器跳到完整文档。",
                     " If you want to check the context of a past translation, you can jump directly to the full document from the translation editor.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553431242143"
+                    }
                 ],
                 [
                     "TMs have one big advantage: they only store every translation once.",
-                    "",
+                    "翻译记忆有一个很大的优势：同样的翻译，它只存储一次。",
                     " TMs have one big advantage: they only store every translation once.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553431282763"
+                    }
                 ],
                 [
                     "If your content has a lot of repetitions, LiveDocs can become cumbersome.",
-                    "",
+                    "如果你的内容有很多重复，LiveDocs会变得很笨重。",
                     " If your content has a lot of repetitions, LiveDocs can become cumbersome.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553431268932"
+                    }
                 ],
                 [
                     "### localization; \\#l10n",
@@ -2100,17 +2205,23 @@
                 ],
                 [
                     "Sometimes used as a synonym for translation, localization entails a bit more: it includes showing dates in the right format, money in the right currency, and the like.",
-                    "",
+                    "有时用作翻译的同义词，不过通常本地化有更广泛的含义：它包括以正确的格式显示日期、以正确的货币显示货币等。",
                     "\r\nSometimes used as a synonym for translation, localization entails a bit more: it includes showing dates in the right format, money in the right currency, and the like.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553431331971"
+                    }
                 ],
                 [
                     "In order to localize a product, it must first enable doing all this, which is called internationalization.",
-                    "",
+                    "为了使产品本地化，必须修改产品使其支持本地化操作，这叫做国际化。",
                     " In order to localize a product, it must first enable doing all this, which is called internationalization.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553431381355"
+                    }
                 ],
                 [
                     "### localization engineer",
@@ -2124,31 +2235,43 @@
                 ],
                 [
                     "A person who knows the ins and outs of CAT tools, nasty file formats, regular expressions and other arcana.",
-                    "",
+                    "了解CAT工具、讨厌的文件格式、正则表达式和其他奥秘的人。",
                     "\r\nA person who knows the ins and outs of CAT tools, nasty file formats, regular expressions and other arcana.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553431407147"
+                    }
                 ],
                 [
                     "Many are not shy to code either.",
-                    "",
+                    "许多人也有很强的代码能力。",
                     " Many are not shy to code either.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553431425077"
+                    }
                 ],
                 [
                     "They make sure that before a complex project is launched, all the content is imported correctly, the segmentation is right, untouchable segments are locked, and a lot more.",
-                    "",
+                    "它们确保在启动一个复杂的项目之前，所有内容都被正确导入，句段分割是正确的，不应该被修改的句段被锁定，等等。",
                     " They make sure that before a complex project is launched, all the content is imported correctly, the segmentation is right, untouchable segments are locked, and a lot more.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553431456753"
+                    }
                 ],
                 [
                     "Without localization engineers, complex projects would never be finished on time and budget, and translators would tear out their hair and move to a farm to raise pigs.",
-                    "",
+                    "如果没有本地化工程师，复杂的项目将永远无法按时完成，而翻译人员则会拔光头发，搬到农场养猪。",
                     " Without localization engineers, complex projects would never be finished on time and budget, and translators would tear out their hair and move to a farm to raise pigs.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553431483924"
+                    }
                 ],
                 [
                     "### lock segments in different languages",
@@ -3782,12 +3905,12 @@
                 ],
                 [
                     "See segment",
-                    "见句段（segment）。",
+                    "见句段（segment）",
                     "\r\nSee segment\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553416112520"
+                        "createdTime": "1553430754555"
                     }
                 ],
                 [
@@ -4156,12 +4279,12 @@
                 ],
                 [
                     "See term base",
-                    "参见术语库。",
+                    "参见术语库",
                     "\r\nSee term base\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553416325784"
+                        "createdTime": "1553430171004"
                     }
                 ],
                 [
@@ -4327,12 +4450,12 @@
                 ],
                 [
                     "See term base",
-                    "参见术语库。",
+                    "参见术语库",
                     "\r\nSee term base\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553416459260"
+                        "createdTime": "1553430171005"
                     }
                 ],
                 [
