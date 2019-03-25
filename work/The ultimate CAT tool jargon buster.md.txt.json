@@ -1626,12 +1626,12 @@
                 ],
                 [
                     "If there is no exact or fuzzy match for a segment in your TMs or corpora, a lot of the segment's parts may still have a match from a term base, non-translatables or auto-translatables.",
-                    "可能对于一个句段，您的记忆库或语料库没有精确或模糊匹配的片段，但这一句段的部分内容可能仍然与术语库的内容相匹配，或者有非译元素或自动可译内容。",
+                    "可能对于一个句段，您的记忆库或语料库没有精确或模糊匹配的片段，但这一句段的部分内容可能仍然与术语库的内容相匹配，或者有非译元素或自动可译元素。",
                     "\r\nIf there is no exact or fuzzy match for a segment in your TMs or corpora, a lot of the segment's parts may still have a match from a term base, non-translatables or auto-translatables.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553502253850"
+                        "createdTime": "1553503079727"
                     }
                 ],
                 [
@@ -3505,12 +3505,12 @@
                 ],
                 [
                     "It looks at the characters that you have typed so far and offers a list of continuations from the current segment's term base matches, auto-translatables, non-translatables, Muse hints and other such sources.",
-                    "它分析用户输入的字符，然后根据当前句段的术语库匹配、自动可翻译内容、非译元素、Muse提示和其它资源来提供一个建议列表。",
+                    "它分析用户输入的字符，然后根据当前句段的术语库匹配、自动可译元素、非译元素、Muse提示和其它资源来提供一个建议列表。",
                     " It looks at the characters that you have typed so far and offers a list of continuations from the current segment's term base matches, auto-translatables, non-translatables, Muse hints and other such sources.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553491019857"
+                        "createdTime": "1553503094672"
                     }
                 ],
                 [
@@ -3855,12 +3855,12 @@
                 ],
                 [
                     "No wonder CAT tools support them across the board, from defining file format filters through auto-translatables to find\/replace.",
-                    "CAT工具全面支持正则表达式，从定义文件格式过滤器到自动可翻译内容，再到查找\/替换，都有使用到。",
+                    "CAT工具全面支持正则表达式，从定义文件格式过滤器到自动可译元素，再到查找\/替换，都有使用到。",
                     " No wonder CAT tools support them across the board, from defining file format filters through auto-translatables to find\/replace.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553492454322"
+                        "createdTime": "1553503094673"
                     }
                 ],
                 [
