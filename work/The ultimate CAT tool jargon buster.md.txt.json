@@ -3815,45 +3815,63 @@
                 ],
                 [
                     "Even texts written by humans are full of patterns that have well-defined moving parts.",
-                    "",
+                    "即使是人类写的文本也可以发掘出明确的模式。",
                     "\r\nEven texts written by humans are full of patterns that have well-defined moving parts.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553492259499"
+                    }
                 ],
                 [
                     "Think dates: Number(1-12)\/Number(1-31)\/Number(four digits) is a date in the US.",
-                    "",
+                    "比如美国用MM\/DD\/YYYY来表示日期。",
                     " Think dates: Number(1-12)\/Number(1-31)\/Number(four digits) is a date in the US.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553492293029"
+                    }
                 ],
                 [
                     "For German, you have the same numbers in there, you just need to rearrange them and use dots instead.",
-                    "",
+                    "而德国也是采用的类似的日期格式，不过他们使用点来作为间隔符。",
                     " For German, you have the same numbers in there, you just need to rearrange them and use dots instead.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553492330909"
+                    }
                 ],
                 [
                     "Regular expressions are a super counter-intuitive but super-useful way to describe exactly these kinds of patterns.",
-                    "",
+                    "正则表达式是一种非常反直观但非常有用的，可以精确描述以上类型内容的模式的方式。",
                     " Regular expressions are a super counter-intuitive but super-useful way to describe exactly these kinds of patterns.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553492394089"
+                    }
                 ],
                 [
                     "No wonder CAT tools support them across the board, from defining file format filters through auto-translatables to find\/replace.",
-                    "",
+                    "CAT工具全面支持正则表达式，从定义文件格式过滤器到自动可翻译内容，再到查找\/替换，都有使用到。",
                     " No wonder CAT tools support them across the board, from defining file format filters through auto-translatables to find\/replace.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553492454322"
+                    }
                 ],
                 [
                     "You can get half a localization engineer's career just out of knowing your regex.",
-                    "",
+                    "熟悉正则表达式，你就相当于半个本地化工程师了。",
                     " You can get half a localization engineer's career just out of knowing your regex.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553492486443"
+                    }
                 ],
                 [
                     "### rejected",
@@ -3887,31 +3905,43 @@
                 ],
                 [
                     "Any segment that occurs at least twice in your source text is a repetition.",
-                    "",
+                    "在源语文本中出现至少两次的句段叫做重复句段。",
                     "\r\nAny segment that occurs at least twice in your source text is a repetition.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553492553387"
+                    }
                 ],
                 [
                     "They are a delight because usually you need to translate the same thing only once.",
-                    "",
+                    "出现重复是好事，因为通常你只需要翻译相同的内容一次。",
                     " They are a delight because usually you need to translate the same thing only once.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553492581132"
+                    }
                 ],
                 [
                     "That's how repetitions gave rise to auto-propagation and exact matches.",
-                    "",
+                    "自动填充和完全匹配使用的就是重复的句段。",
                     " That's how repetitions gave rise to auto-propagation and exact matches.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553492603643"
+                    }
                 ],
                 [
                     "And for the cases where the same thing must be translated differently, you have context IDs to differentiate.",
-                    "",
+                    "对于必须以不同方式翻译相同内容的情况，您可以使用上下文ID进行区分。",
                     " And for the cases where the same thing must be translated differently, you have context IDs to differentiate.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553492612903"
+                    }
                 ],
                 [
                     "### RTL; right-to-left",
@@ -3945,17 +3975,23 @@
                 ],
                 [
                     "A set of tools and documentation that allows developers to build their own module to work together with a different piece of software.",
-                    "",
+                    "一组工具和文档，允许开发人员构建自己的模块，以便与不同的软件一起工作。",
                     "\r\nA set of tools and documentation that allows developers to build their own module to work together with a different piece of software.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553492636531"
+                    }
                 ],
                 [
                     "SDKs are what allows third parties to develop plugins for CAT tools, for instance.",
-                    "",
+                    "比如SDK允许第三方为CAT工具开发插件。",
                     " SDKs are what allows third parties to develop plugins for CAT tools, for instance.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553492636531"
+                    }
                 ],
                 [
                     "### segment",
