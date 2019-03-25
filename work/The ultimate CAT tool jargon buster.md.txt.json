@@ -1306,12 +1306,12 @@
                 ],
                 [
                     "Short for Document Information Typing Architecture, DITA is exactly as unsexy as it sounds, but tremendously useful.",
-                    "DITA是达尔文信息分类结构（Darwin Information Typing Architecture）的缩写，它听起来很无聊，但非常有用。",
+                    "DITA是达尔文信息分类架构（Darwin Information Typing Architecture）的缩写，它听起来很无聊，但非常有用。",
                     "\r\nShort for Document Information Typing Architecture, DITA is exactly as unsexy as it sounds, but tremendously useful.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553429257578"
+                        "createdTime": "1553511096524"
                     }
                 ],
                 [
@@ -1776,12 +1776,12 @@
                 ],
                 [
                     "### homogeneity",
-                    "### 均匀性（homogeneity）",
+                    "### 同质性（homogeneity）",
                     "\r\n### homogeneity\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553413829236"
+                        "createdTime": "1553511368981"
                     }
                 ],
                 [
@@ -1806,12 +1806,12 @@
                 ],
                 [
                     "The homogeneity function quantifies these “internal” matches as part of the analysis, going beyond the mere detection of repetitions.",
-                    "均匀性功能可以把这些“内部”匹配作为分析的一部分进行处理，而不仅仅是检测重复内容。",
+                    "同质性功能可以把这些“内部”匹配作为分析的一部分进行处理，而不仅仅是检测重复内容。",
                     " The homogeneity function quantifies these “internal” matches as part of the analysis, going beyond the mere detection of repetitions.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553414182632"
+                        "createdTime": "1553511368983"
                     }
                 ],
                 [
@@ -1876,12 +1876,12 @@
                 ],
                 [
                     "### inline tags",
-                    "### 内联标签（inline tags）",
+                    "### 行内标签（inline tags）",
                     "\r\n### inline tags\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553414229807"
+                        "createdTime": "1553510137552"
                     }
                 ],
                 [
@@ -3045,12 +3045,12 @@
                 ],
                 [
                     "### online project",
-                    "### 在线项目",
+                    "### 在线项目（online project）",
                     "\r\n\r\n### online project\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553415537857"
+                        "createdTime": "1553510267483"
                     }
                 ],
                 [
@@ -3235,12 +3235,12 @@
                 ],
                 [
                     "### penalty",
-                    "### 惩罚",
+                    "### 惩罚（penalty）",
                     "\r\n### penalty\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553415600245"
+                        "createdTime": "1553510346594"
                     }
                 ],
                 [
@@ -3455,22 +3455,22 @@
                 ],
                 [
                     "Incidentally, the numbers in the pre-translation analysis match very closely those from homogeneity.",
-                    "顺便说一下，译前分析匹配的数字与均匀性分析中的数字非常接近。",
+                    "顺便说一下，译前分析匹配的数字与同质性分析中的数字非常接近。",
                     "\r\n\r\nIncidentally, the numbers in the pre-translation analysis match very closely those from homogeneity.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553490692507"
+                        "createdTime": "1553511368983"
                     }
                 ],
                 [
                     "The difference is that PTA's breakdown shows *who* got how many of the internal matches that homogeneity predicted at the start.",
-                    "不同的是，PTA的分析可以显示出译员各自在翻译时使用了多少内部匹配。这些内部匹配是一开始均匀性分析时就有预测。",
+                    "不同的是，PTA的分析可以显示出译员各自在翻译时使用了多少内部匹配。这些内部匹配是一开始同质性分析时就有预测。",
                     " The difference is that PTA's breakdown shows *who* got how many of the internal matches that homogeneity predicted at the start.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553490834830"
+                        "createdTime": "1553511368984"
                     }
                 ],
                 [
@@ -4735,12 +4735,12 @@
                 ],
                 [
                     "These are called *structural* or *external* tags, and should never show up in your segments.",
-                    "这些称为结构或外部标记，不应出现在您的句段中。",
+                    "这些称为结构标记或外部标记，不应出现在您的句段中。",
                     " These are called *structural* or *external* tags, and should never show up in your segments.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553498007482"
+                        "createdTime": "1553510614181"
                     }
                 ],
                 [
