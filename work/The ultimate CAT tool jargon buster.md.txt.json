@@ -416,12 +416,12 @@
                 ],
                 [
                     "This way others can see your work \\*almost\\* as if you were editing a Google doc in real time.",
-                    "这样别人就可以看到你的工作，且\\*几乎*\\就像你在实时编辑一个谷歌文档。",
+                    "这样别人就可以看到你的工作，且\\*几乎\\*就像你在实时编辑一个谷歌文档。",
                     " This way others can see your work \\*almost\\* as if you were editing a Google doc in real time.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1551882106929"
+                        "createdTime": "1553502885439"
                     }
                 ],
                 [
@@ -946,12 +946,12 @@
                 ],
                 [
                     "### comment",
-                    "### 评论（comment）",
+                    "### 注释（comment）",
                     "\r\n\r\n### comment\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553412728106"
+                        "createdTime": "1553503002432"
                     }
                 ],
                 [
@@ -986,12 +986,12 @@
                 ],
                 [
                     "You can keep comments private, or choose to export them as part of the finished translation.",
-                    "您可以将评论保密，也可以选择将其作为完成的翻译的一部分导出。",
+                    "您可以将注释保密，也可以选择将其作为完成的翻译的一部分导出。",
                     " You can keep comments private, or choose to export them as part of the finished translation.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553428137169"
+                        "createdTime": "1553503002434"
                     }
                 ],
                 [
@@ -1626,22 +1626,22 @@
                 ],
                 [
                     "If there is no exact or fuzzy match for a segment in your TMs or corpora, a lot of the segment's parts may still have a match from a term base, non-translatables or auto-translatables.",
-                    "可能对于一个句段，您的记忆库或语料库没有精确或模糊匹配的片段，但这一句段的部分内容可能仍然与术语库的内容想匹配，或者有非译元素或自动可译内容。",
+                    "可能对于一个句段，您的记忆库或语料库没有精确或模糊匹配的片段，但这一句段的部分内容可能仍然与术语库的内容相匹配，或者有非译元素或自动可译内容。",
                     "\r\nIf there is no exact or fuzzy match for a segment in your TMs or corpora, a lot of the segment's parts may still have a match from a term base, non-translatables or auto-translatables.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553413594360"
+                        "createdTime": "1553502253850"
                     }
                 ],
                 [
                     "Fragment assembly takes all of these and just replaces them with their target equivalents, giving you a patchwork segment that might still take a lot less work to brush up than translating it from scratch.",
-                    "片段组合功能可以识别这些部分内容并用合适的译文进行替换，这样和重头翻译相比应该还是能节省不少工作。",
+                    "片段组合功能可以识别这些部分内容并用合适的译文进行替换，这样和从头翻译相比应该还是能节省不少工作。",
                     " Fragment assembly takes all of these and just replaces them with their target equivalents, giving you a patchwork segment that might still take a lot less work to brush up than translating it from scratch.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553413733746"
+                        "createdTime": "1553502279892"
                     }
                 ],
                 [
@@ -1696,12 +1696,12 @@
                 ],
                 [
                     "See also: TM match types",
-                    "见翻译记忆匹配类型",
+                    "另见翻译记忆匹配类型",
                     "\r\n\r\nSee also: TM match types\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553432958454"
+                        "createdTime": "1553502334687"
                     }
                 ],
                 [
@@ -1766,12 +1766,12 @@
                 ],
                 [
                     "See comment",
-                    "见评论",
+                    "见注释",
                     "\r\nSee comment\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553430224798"
+                        "createdTime": "1553503002435"
                     }
                 ],
                 [
@@ -2755,12 +2755,12 @@
                 ],
                 [
                     "An XLIFF file than contains additional, non-standard information specific to memoQ, such as segment statuses, QA warnings, LQA errors, comments etc.",
-                    "memoQ的专有XLIFF格式文件，含有一些memoQ才有的信息，比如句段信息、QA警告、LQA错误、评论等等。",
+                    "memoQ的专有XLIFF格式文件，含有一些memoQ才有的信息，比如句段信息、QA警告、LQA错误、注释等等。",
                     "\r\nAn XLIFF file than contains additional, non-standard information specific to memoQ, such as segment statuses, QA warnings, LQA errors, comments etc.\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553478909062"
+                        "createdTime": "1553503002436"
                     }
                 ],
                 [
@@ -2775,12 +2775,12 @@
                 ],
                 [
                     "An Excel file with source text, translations, comments and other information.",
-                    "包含源文本、翻译、评论和其他信息的Excel文件。",
+                    "包含源文本、翻译、注释和其他信息的Excel文件。",
                     "\r\nAn Excel file with source text, translations, comments and other information.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553478927322"
+                        "createdTime": "1553503002436"
                     }
                 ],
                 [
@@ -5765,12 +5765,12 @@
                 ],
                 [
                     "So you're half done translating a file, with tons of comments in there and segments in all imaginable statuses.",
-                    "你已经完成了一半的文件翻译工作，其中有大量的评论和状态各不相同的句段。",
+                    "你已经完成了一半的文件翻译工作，其中有大量的注释和状态各不相同的句段。",
                     "\r\nSo you're half done translating a file, with tons of comments in there and segments in all imaginable statuses.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553501401890"
+                        "createdTime": "1553503002437"
                     }
                 ],
                 [
@@ -5795,12 +5795,12 @@
                 ],
                 [
                     "The function compares the original source document with the updated source document, going segment by segment, and recreates your work, including comments, ignored QA warnings, segment statuses and all the rest.",
-                    "X-translate将原始源文档与更新的源文档进行比较，逐句段进行，并重新记录你的工作，包括评论、忽略的QA警告、句段状态和所有其他内容。",
+                    "X-translate将原始源文档与更新的源文档进行比较，逐句段进行，并重新记录你的工作，包括注释、忽略的QA警告、句段状态和所有其他内容。",
                     " The function compares the original source document with the updated source document, going segment by segment, and recreates your work, including comments, ignored QA warnings, segment statuses and all the rest.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553501494481"
+                        "createdTime": "1553503002438"
                     }
                 ],
                 [
