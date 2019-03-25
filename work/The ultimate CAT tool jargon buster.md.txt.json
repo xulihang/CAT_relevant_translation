@@ -696,12 +696,12 @@
                 ],
                 [
                     "A specially formatted Word document that contains a translation's source and target segments, and often also comments and other information.",
-                    "一种特殊格式的Word文档，包含翻译的源文句段和目标句段，通常还包括注释和其他信息。",
+                    "一种特殊格式的Word文档，包含翻译的原文句段和目标句段，通常还包括注释和其他信息。",
                     "\r\nA specially formatted Word document that contains a translation's source and target segments, and often also comments and other information.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553412061484"
+                        "createdTime": "1553498494927"
                     }
                 ],
                 [
@@ -2285,12 +2285,12 @@
                 ],
                 [
                     "One thing that no CAT tool copes with well is mixed languages in a source document.",
-                    "没有一个CAT工具能够处理好源文使用了混合语言的情况。",
+                    "没有一个CAT工具能够处理好源文档使用了混合语言的情况。",
                     "\r\nOne thing that no CAT tool copes with well is mixed languages in a source document.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553414823401"
+                        "createdTime": "1553498627057"
                     }
                 ],
                 [
@@ -4005,87 +4005,123 @@
                 ],
                 [
                     "When we translate text, we almost always proceed sentence by sentence.",
-                    "",
+                    "我们翻译文本的时候，基本都是以句子为单位进行的。",
                     "\r\nWhen we translate text, we almost always proceed sentence by sentence.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553495522775"
+                    }
                 ],
                 [
                     "If you try to get to the bottom of it, however, nobody really knows what a sentence precisely is.",
-                    "",
+                    "然而，没有人真正知道一个句子到底是什么。",
                     " If you try to get to the bottom of it, however, nobody really knows what a sentence precisely is.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553495560103"
+                    }
                 ],
                 [
                     "Also, when you translate a single word in a bullet-point list, is that a sentence?",
-                    "",
+                    "列表中的一个单词是一个句子吗？",
                     " Also, when you translate a single word in a bullet-point list, is that a sentence?",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553495594799"
+                    }
                 ],
                 [
                     "CAT tools decided to sidestep this can of worms altogether, so we speak about *segments* instead.",
-                    "",
+                    "CAT工具决定完全回避句子的叫法，改用“句段”。",
                     " CAT tools decided to sidestep this can of worms altogether, so we speak about *segments* instead.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553495629519"
+                    }
                 ],
                 [
                     "Generally (though not always), a segment is the essential unit of translation: you proceed segment by segment in the editor, and you store the translation of segments in the TM.",
-                    "",
+                    "一般来说（尽管并非总是如此），句段是翻译的基本单位：您在编辑器中按句段进行翻译，并把句段的翻译存储在翻译记忆中。",
                     "\r\n\r\nGenerally (though not always), a segment is the essential unit of translation: you proceed segment by segment in the editor, and you store the translation of segments in the TM.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553495696238"
+                    }
                 ],
                 [
                     "Your TM and corpus matches also refer to the segment you are translating at the moment.",
-                    "",
+                    "你的翻译记忆和语料库匹配也指的是你目前正在翻译的句段。",
                     " Your TM and corpus matches also refer to the segment you are translating at the moment.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553495719744"
+                    }
                 ],
                 [
                     "Segments are born with the active cooperation of regular expressions, in a special incarnation called *segmentation rules*.",
-                    "",
+                    "句段是使用句段分割规则来进行切分的，这些规则是用正则表达式描述的。",
                     "\r\n\r\nSegments are born with the active cooperation of regular expressions, in a special incarnation called *segmentation rules*.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553495785359"
+                    }
                 ],
                 [
                     "As all regex, they look gibberish to the uninitiated eye, but they basically elaborate a single theme: “If you find sentence-final punctuation like a period followed by one or more spaces followed by a capital letter, start a new segment right there.",
-                    "",
+                    "就像所有的正则一样，它们在外行眼中看来就是一堆乱码，但它们基本上遵循这样的一个模式：“如果你发现句子的最后标点像一个句点，后面跟着一个或多个空格，后面跟着一个大写字母，那么就从那里开始一个新的句段。",
                     " As all regex, they look gibberish to the uninitiated eye, but they basically elaborate a single theme: “If you find sentence-final punctuation like a period followed by one or more spaces followed by a capital letter, start a new segment right there.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553495839052"
+                    }
                 ],
                 [
                     "Except if the last word before the period is a known abbreviation.”",
-                    "",
+                    "除非句号前的最后一个词是已知的缩写。”",
                     " Except if the last word before the period is a known abbreviation.”",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553495852139"
+                    }
                 ],
                 [
                     "Segmentation normally happens quietly, behind the scenes, when your CAT tool's file format filter imports a source document.",
-                    "",
+                    "当您的CAT工具的文件格式过滤器导入源文档时，通常会在幕后悄悄地进行句段分割。",
                     " Segmentation normally happens quietly, behind the scenes, when your CAT tool's file format filter imports a source document.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553495874679"
+                    }
                 ],
                 [
                     "No matter how elaborate, segmentation rules will inevitably get it wrong from time to time.",
-                    "",
+                    "但再全面的分割规则也难免会出错。",
                     "\r\n\r\nNo matter how elaborate, segmentation rules will inevitably get it wrong from time to time.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553495940408"
+                    }
                 ],
                 [
                     "To help get around this, CAT tools have a function to join neighboring segments, and to split a single segment into two.",
-                    "",
+                    "为了解决这个问题，CAT工具有一个功能，可以合并相邻的句段，或将一个句段拆分为两个。",
                     " To help get around this, CAT tools have a function to join neighboring segments, and to split a single segment into two.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553495963297"
+                    }
                 ],
                 [
                     "### segment status",
@@ -4099,59 +4135,83 @@
                 ],
                 [
                     "From the moment you import a document into your CAT tool all through the steps of translation, review, client review, proofreading after a good night's sleep, and additional review by your pet, up to the point of exporting it for delivery to your client, the text lives in the form of segments.",
-                    "",
+                    "从你把一份文件导入你的CAT工具的那一刻起，通过翻译、审校、客户审校、一晚上好觉后第二天进行的校对以及二校，直到把它交付给你的客户，文本是以句段的形式存在的。",
                     "\r\nFrom the moment you import a document into your CAT tool all through the steps of translation, review, client review, proofreading after a good night's sleep, and additional review by your pet, up to the point of exporting it for delivery to your client, the text lives in the form of segments.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496138373"
+                    }
                 ],
                 [
                     "In this form, there's a whole lot to know about segments beside the text itself: does the target come from a TM, or from you?",
-                    "",
+                    "因此，除了文本本身之外，还需要知道很多关于句段的信息：目标是来自翻译记忆的，还是我自己翻的？",
                     " In this form, there's a whole lot to know about segments beside the text itself: does the target come from a TM, or from you?",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496180119"
+                    }
                 ],
                 [
                     "Have you confirmed it already?",
-                    "",
+                    "翻译有没有得到确认？",
                     " Have you confirmed it already?",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496190943"
+                    }
                 ],
                 [
                     "Was it rejected by a reviewer?",
-                    "",
+                    "它是不是被审校拒绝了？",
                     " Was it rejected by a reviewer?",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496199328"
+                    }
                 ],
                 [
                     "Is it halfway edited but not quite finished yet?",
-                    "",
+                    "是不是还处于编辑状态，不是最终的完成状态？",
                     " Is it halfway edited but not quite finished yet?",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496219759"
+                    }
                 ],
                 [
                     "That is the kind of information that you can see in the form of colors and icons within the translation environment.",
-                    "",
+                    "这是您可以在翻译环境中通过颜色和图标的形式看到的信息。",
                     " That is the kind of information that you can see in the form of colors and icons within the translation environment.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496241448"
+                    }
                 ],
                 [
                     "For several years after they arrived, my friends from Mars were convinced translators were in the business of turning empty (grey) segments into confirmed (green) ones, and they thought this was a terribly appealing job.",
-                    "",
+                    "我的火星人朋友们到来后的几年里都确信翻译人员的工作是把空的（灰色）片段转变成确认的（绿色）片段，他们认为这是一个非常吸引人的工作。",
                     "\r\n\r\nFor several years after they arrived, my friends from Mars were convinced translators were in the business of turning empty (grey) segments into confirmed (green) ones, and they thought this was a terribly appealing job.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496299565"
+                    }
                 ],
                 [
                     "By now they know they were wrong, but they still think the job is awesome.",
-                    "",
+                    "现在他们知道自己错了，但他们仍然认为这份工作很棒。",
                     " By now they know they were wrong, but they still think the job is awesome.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496314779"
+                    }
                 ],
                 [
                     "### segmentation",
@@ -4165,10 +4225,13 @@
                 ],
                 [
                     "See segment",
-                    "",
+                    "见句段（segment）",
                     "\r\nSee segment\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496323917"
+                    }
                 ],
                 [
                     "### simultaneous translation and review",
@@ -4182,17 +4245,23 @@
                 ],
                 [
                     "A function of online collaborative CAT tools that allows several people to edit the same document together in real time.",
-                    "",
+                    "在线协作CAT工具的一个功能，允许几个人一起实时编辑同一文档。",
                     "\r\nA function of online collaborative CAT tools that allows several people to edit the same document together in real time.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496336654"
+                    }
                 ],
                 [
                     "You can think of this as Google Docs on steroids, customized for the two-column, source-and-target world of translation.",
-                    "",
+                    "你可以把它看作是加强版的为翻译定制的Google Docs。",
                     " You can think of this as Google Docs on steroids, customized for the two-column, source-and-target world of translation.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496373510"
+                    }
                 ],
                 [
                     "### SMA; support & maintenance agreement",
@@ -4206,17 +4275,23 @@
                 ],
                 [
                     "While a license agreement entitles you to use a piece of software, the SMA that usually goes along with it grants you access to support from a human and to new versions of the software.",
-                    "",
+                    "许可协议允许您使用某个软件，而与之配套的SMA通常允许您获得人工支持和软件的新版本。",
                     "\r\nWhile a license agreement entitles you to use a piece of software, the SMA that usually goes along with it grants you access to support from a human and to new versions of the software.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496440050"
+                    }
                 ],
                 [
                     "Normally, perpetual licenses have a one-off fee; SMA, in contrast, is charged on an annual basis.",
-                    "",
+                    "通常，永久性许可证只收取一次性费用；与此相反，SMA每年收取一次费用。",
                     " Normally, perpetual licenses have a one-off fee; SMA, in contrast, is charged on an annual basis.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496450521"
+                    }
                 ],
                 [
                     "### SMT; statistical machine translation",
@@ -4230,10 +4305,13 @@
                 ],
                 [
                     "See machine translation",
-                    "",
+                    "见机器翻译",
                     "\r\nSee machine translation\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496453108"
+                    }
                 ],
                 [
                     "### split segment",
@@ -4267,10 +4345,13 @@
                 ],
                 [
                     "An XML-based standard that allows different CAT tools to read each other's segmentation rules.",
-                    "",
+                    "一种基于XML的标准，允许不同的CAT工具读取彼此的分割规则。",
                     "\r\nAn XML-based standard that allows different CAT tools to read each other's segmentation rules.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496466149"
+                    }
                 ],
                 [
                     "### subsegment leverage",
@@ -4284,31 +4365,43 @@
                 ],
                 [
                     "This is a strong contender for the industry's most fuzzy word, right there after fuzzy itself.",
-                    "",
+                    "这是一个翻译行业最模糊词汇的有力竞争者，仅次于模糊这次词。",
                     "\r\nThis is a strong contender for the industry's most fuzzy word, right there after fuzzy itself.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496530591"
+                    }
                 ],
                 [
                     "When a CAT tool vendor uses it, they basically want to say, “We're doing something extremely advanced and useful here.”",
-                    "",
+                    "CAT工具供应商标榜这一功能时，他们基本上想说：“我们正在做一些非常先进和有用的事情。”",
                     " When a CAT tool vendor uses it, they basically want to say, “We're doing something extremely advanced and useful here.”",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496566422"
+                    }
                 ],
                 [
                     "In prosaic terms it means lookup results and suggestions (aka leverage) that refer to a shorter bit of the source segment.",
-                    "",
+                    "简单地说，这一功能可以根据原文片段的一部分得到翻译建议。",
                     " In prosaic terms it means lookup results and suggestions (aka leverage) that refer to a shorter bit of the source segment.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496825124"
+                    }
                 ],
                 [
                     "In all earnestness, often the machinery that generates such matches really is pretty advanced, extrapolating knowledge from past translations in ways that are far from obvious.",
-                    "",
+                    "产生这种建议的机制是相当先进的，可以从过去的翻译中总结出咋一眼看去并不明显的知识。",
                     " In all earnestness, often the machinery that generates such matches really is pretty advanced, extrapolating knowledge from past translations in ways that are far from obvious.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496837307"
+                    }
                 ],
                 [
                     "### statistics",
@@ -4332,34 +4425,43 @@
                 ],
                 [
                     "### string",
-                    "### 文本（String）",
+                    "### 字符串（String）",
                     "\r\n### string\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553416179560"
+                        "createdTime": "1553496890339"
                     }
                 ],
                 [
                     "In developer-talk, a string is a sequence of characters.",
-                    "",
+                    "用开发的语言描述，字符串是一个字符序列。",
                     "\r\nIn developer-talk, a string is a sequence of characters.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496880015"
+                    }
                 ],
                 [
                     "When you translate the user interface of a software application or a game, all the chunks of text that appear in different places are called “strings.”",
-                    "",
+                    "翻译软件应用程序或游戏的用户界面时，出现在不同位置的所有文本块都称为“字符串”。",
                     " When you translate the user interface of a software application or a game, all the chunks of text that appear in different places are called “strings.”",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496916889"
+                    }
                 ],
                 [
                     "Typically, a string shows up as a single segment, and it has an associated context ID to disambiguate it.",
-                    "",
+                    "通常，一个字符串显示为一个单独的句段，它有一个关联的上下文ID来消除它的歧义。",
                     " Typically, a string shows up as a single segment, and it has an associated context ID to disambiguate it.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496916889"
+                    }
                 ],
                 [
                     "### structural tags",
@@ -4373,10 +4475,13 @@
                 ],
                 [
                     "See tags",
-                    "",
+                    "见标签",
                     "\r\nSee tags\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496926036"
+                    }
                 ],
                 [
                     "### synchronize",
@@ -4390,17 +4495,23 @@
                 ],
                 [
                     "When you work in a memoQ online project, you have the option not to save every translated segment in the server immediately, but instead gather a lot of changes locally, and exchange news with the server in one go.",
-                    "",
+                    "在memoQ在线项目中工作时，您可以选择不立即在服务器上保存每个翻译的句段，而是在本地收集大量更改，然后一次性与服务器交换。",
                     "\r\nWhen you work in a memoQ online project, you have the option not to save every translated segment in the server immediately, but instead gather a lot of changes locally, and exchange news with the server in one go.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496982423"
+                    }
                 ],
                 [
                     "That action is called *synchronizing* the project.",
-                    "",
+                    "这一操作叫做项目同步，",
                     " That action is called *synchronizing* the project.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553496997942"
+                    }
                 ],
                 [
                     "### table RTF",
@@ -4434,24 +4545,33 @@
                 ],
                 [
                     "Some inline tags are optional: maybe that bold formatting in the source text is not needed in your translation at all.",
-                    "",
+                    "一些内联标记是可选的：也许源文本中的粗体格式在您的翻译中根本不需要。",
                     "\r\nSome inline tags are optional: maybe that bold formatting in the source text is not needed in your translation at all.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553497093736"
+                    }
                 ],
                 [
                     "Others, however, are mission-critical: if they represent N in the sentence “You have N enemies left”, then if you omit the tag, the translated game will crash and the outrage of gamers will put your client out of business.",
-                    "",
+                    "然而，还有一些标签是非常重要的。比如果“你还有N个敌人”这句话中，N是以标签的形式存储的，那么如果你省略了标签，翻译后的游戏程序可能崩溃，游戏玩家的愤怒将使你的客户破产。",
                     " Others, however, are mission-critical: if they represent N in the sentence “You have N enemies left”, then if you omit the tag, the translated game will crash and the outrage of gamers will put your client out of business.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553497123190"
+                    }
                 ],
                 [
                     "To avoid such an outcome, the QA module of CAT tools gives you a tag error right in the editor, and won't let you deliver your translation until you fix it.",
-                    "",
+                    "为了避免这种情况，CAT工具的QA模块可以在编辑器里给出标签错误的提示，并且直到标签错误得到修复才允许进行交付操作。",
                     " To avoid such an outcome, the QA module of CAT tools gives you a tag error right in the editor, and won't let you deliver your translation until you fix it.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553497193986"
+                    }
                 ],
                 [
                     "### tag insertion mode",
@@ -4465,17 +4585,23 @@
                 ],
                 [
                     "Tags can be a real nuisance as you translate: you need to think about where they must go, you need special shortcuts to insert them, and generally, they throw you out of the flow.",
-                    "",
+                    "当你翻译时，标签可能是一个真正的麻烦：你需要考虑它们放在哪里，你需要快捷输入标签的方法。而且，标签会影响正常的翻译思路。",
                     "\r\nTags can be a real nuisance as you translate: you need to think about where they must go, you need special shortcuts to insert them, and generally, they throw you out of the flow.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553497253925"
+                    }
                 ],
                 [
                     "So in memoQ you can just focus on translating a segment's text first, then activate tag insertion mode and sprinkle your target segment with tags in the right places.",
-                    "",
+                    "因此，在memoQ中，您可以先集中精力翻译一个句段的文本，然后激活标签插入模式，并在目标句段的正确位置插入标签。",
                     " So in memoQ you can just focus on translating a segment's text first, then activate tag insertion mode and sprinkle your target segment with tags in the right places.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553497284605"
+                    }
                 ],
                 [
                     "### tag soup",
@@ -4489,31 +4615,43 @@
                 ],
                 [
                     "An unfortunate but all too frequent situation when a document that you have just imported is chock full of tags that are unexpected, pointless, or both.",
-                    "",
+                    "导入的文档中充满了多余的、无意义的标签时，是一种不幸但频繁的情况。",
                     "\r\nAn unfortunate but all too frequent situation when a document that you have just imported is chock full of tags that are unexpected, pointless, or both.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553497366966"
+                    }
                 ],
                 [
                     "This most often happens with Word documents that an OCR tool produced from a PDF because it wanted to make sure everything is shown exactly in the right place, down to a hundredth of a millimeter.",
-                    "",
+                    "这通常发生在导入使用OCR转换PDF得到的Word文档时，因为生成的文档希望确保所有内容都显示在正确的位置，精确到百分之一毫米，所以会有很多标签。",
                     " This most often happens with Word documents that an OCR tool produced from a PDF because it wanted to make sure everything is shown exactly in the right place, down to a hundredth of a millimeter.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553497432026"
+                    }
                 ],
                 [
                     "You can make things better by tweaking the OCR tool's settings, running a cleanup macro like Dave Turner's CodeZapper, or pestering your CAT tool's developers to do something about it.",
-                    "",
+                    "您可以通过调整OCR工具的设置、使用清理标签的宏（如Dave Turner的codezapper），或者缠着您的CAT工具的开发人员来做一些事情来改善情况。",
                     " You can make things better by tweaking the OCR tool's settings, running a cleanup macro like Dave Turner's CodeZapper, or pestering your CAT tool's developers to do something about it.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553497482503"
+                    }
                 ],
                 [
                     "Only the first two have been conclusively shown to work.",
-                    "",
+                    "只有前两个被确凿地证明是有效的。",
                     " Only the first two have been conclusively shown to work.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553497490843"
+                    }
                 ],
                 [
                     "### tags",
@@ -4527,87 +4665,123 @@
                 ],
                 [
                     "The content we need to translate consists mostly of text – but not exclusively.",
-                    "",
+                    "我们需要翻译的内容大部分是文本，但不是唯一的内容。",
                     "\r\nThe content we need to translate consists mostly of text – but not exclusively.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553497535776"
+                    }
                 ],
                 [
                     "One oddity is formatting changes: how do you represent a change of text color in the middle of a sentence?",
-                    "",
+                    "比如要确定翻译中的文本的哪一部分对应原文中有颜色的部分。",
                     " One oddity is formatting changes: how do you represent a change of text color in the middle of a sentence?",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553497715189"
+                    }
                 ],
                 [
                     "The other oddity is a consequence of structured content, where text is intertwined with markup like hyperlinks, cross-references, or placeholders that will be substituted with, say, a number when a piece of software runs.",
-                    "",
+                    "另外还有结构化内容的处理，其中文本与标记（如超链接、交叉引用或占位符）交织在一起，当一个软件运行时，这些标记将被替换为数字。",
                     " The other oddity is a consequence of structured content, where text is intertwined with markup like hyperlinks, cross-references, or placeholders that will be substituted with, say, a number when a piece of software runs.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553497744981"
+                    }
                 ],
                 [
                     "CAT tools cope with all this by introducing tags: symbols inside your segments that act like a character in the editor, but look completely different.",
-                    "",
+                    "CAT工具通过引入标签来应对所有这些问题。句段中的标签在编辑器中的作用类似于字符，但看起来完全不同。",
                     "\r\n\r\nCAT tools cope with all this by introducing tags: symbols inside your segments that act like a character in the editor, but look completely different.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553497807077"
+                    }
                 ],
                 [
                     "These creatures are called *inline* or *internal* tags.",
-                    "",
+                    "它们被称为行内标签或者内联标签。",
                     " These creatures are called *inline* or *internal* tags.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553497848710"
+                    }
                 ],
                 [
                     "Then you have formats like XML or HTML that have tags woven into their own DNA.",
-                    "",
+                    "像XML或HTML这样的格式，把标签编织到了自己的DNA中。",
                     "\r\n\r\nThen you have formats like XML or HTML that have tags woven into their own DNA.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553497909880"
+                    }
                 ],
                 [
                     "Some of these tags define structure (“this is a headword”, “this is a caption”), always enclosing text from the outside.",
-                    "",
+                    "其中一些标记定义结构（如标题、说明文字），并把文字封装在标签里面。",
                     " Some of these tags define structure (“this is a headword”, “this is a caption”), always enclosing text from the outside.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553497976278"
+                    }
                 ],
                 [
                     "These are called *structural* or *external* tags, and should never show up in your segments.",
-                    "",
+                    "这些称为结构或外部标记，不应出现在您的句段中。",
                     " These are called *structural* or *external* tags, and should never show up in your segments.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498007482"
+                    }
                 ],
                 [
                     "They only do if the XML filter was not configured properly before the import.",
-                    "",
+                    "只有在导入之前XML过滤器配置不正确时，它们才会出现。",
                     " They only do if the XML filter was not configured properly before the import.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498033595"
+                    }
                 ],
                 [
                     "You can fix that by hiring a good localization engineer.",
-                    "",
+                    "你可以通过雇佣一个好的本地化工程师来解决这个问题。",
                     " You can fix that by hiring a good localization engineer.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498039408"
+                    }
                 ],
                 [
                     "The analysis output of well-behaved CAT tools has a separate section that shows how many tags the text contains in addition to good old-fashioned characters.",
-                    "",
+                    "好的CAT工具的分析输出有一个单独的部分，该部分会显示了除了字符之外，文本还包含多少标记。",
                     "\r\n\r\nThe analysis output of well-behaved CAT tools has a separate section that shows how many tags the text contains in addition to good old-fashioned characters.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498249437"
+                    }
                 ],
                 [
                     "This is important, because tags can be a lot of work and really slow you down as you translate.",
-                    "",
+                    "这一点很重要，因为标签可能需要很多工作，会减慢翻译的速度。",
                     " This is important, because tags can be a lot of work and really slow you down as you translate.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498277258"
+                    }
                 ],
                 [
                     "### TB",
@@ -4661,31 +4835,43 @@
                 ],
                 [
                     "A bit of a schizophrenic creature that cannot completely make up its mind whether it's a match rate or a segment status.",
-                    "",
+                    "让人精神分裂的概念，不知道它是匹配率还是句段状态。",
                     "\r\nA bit of a schizophrenic creature that cannot completely make up its mind whether it's a match rate or a segment status.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498330812"
+                    }
                 ],
                 [
                     "It rears its head in the complicated scenario when you need to translate a source segment that contains tracked changes, which you need to reproduce in the translation too.",
-                    "",
+                    "当您需要翻译包含跟踪更改的原文句段时，它就有用了。",
                     " It rears its head in the complicated scenario when you need to translate a source segment that contains tracked changes, which you need to reproduce in the translation too.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498544610"
+                    }
                 ],
                 [
                     "A TC match is basically an exact match for the original form of the source segment, pretending those tracked changes were never put in there.",
-                    "",
+                    "TC匹配是指修订过的原文句段的原始文本的精确匹配，假装那些跟踪修订不存在。",
                     " A TC match is basically an exact match for the original form of the source segment, pretending those tracked changes were never put in there.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498716854"
+                    }
                 ],
                 [
                     "See also: track changes",
-                    "",
+                    "见跟踪修订（track changes）",
                     "\r\n\r\nSee also: track changes\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498735508"
+                    }
                 ],
                 [
                     "### TEP; translation-editing-proofreading",
@@ -4699,10 +4885,13 @@
                 ],
                 [
                     "A widely used workflow that involves a translator and two different people subsequently reviewing her work, with the aim of ensuring a high-quality translation, and giving feedback for the translator to improve.",
-                    "",
+                    "一种广泛使用的工作流程，一名译员和两名不同的人员，按顺序对翻译进行审校，目的是确保高质量的翻译，并为译员提供反馈以改进翻译。",
                     "\r\nA widely used workflow that involves a translator and two different people subsequently reviewing her work, with the aim of ensuring a high-quality translation, and giving feedback for the translator to improve.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498817312"
+                    }
                 ],
                 [
                     "### term base",
@@ -4716,45 +4905,63 @@
                 ],
                 [
                     "A “database” or a component of CAT tools that allows users to store important words\/expressions and their equivalents.",
-                    "",
+                    "一个“数据库”或CAT工具的一个组件，允许用户存储重要的单词\/表达等等。",
                     "\r\nA “database” or a component of CAT tools that allows users to store important words\/expressions and their equivalents.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498842086"
+                    }
                 ],
                 [
                     "It saves the hassle of researching the same term twice.",
-                    "",
+                    "它省去了两次研究同一术语的麻烦。",
                     " It saves the hassle of researching the same term twice.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498866650"
+                    }
                 ],
                 [
                     "It also helps translators adhere to terminology mandated by their clients, or at least stay consistent with themselves.",
-                    "",
+                    "它还帮助翻译人员遵守客户指定的术语，或者至少与自己保持一致。",
                     " It also helps translators adhere to terminology mandated by their clients, or at least stay consistent with themselves.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498865660"
+                    }
                 ],
                 [
                     "In fact, it's indispensable for consistency if different people are translating the same large text simultaneously, collaborating online from different locations.",
-                    "",
+                    "事实上，如果不同的人同时翻译同一个大文本，在不同的地点进行在线协作，术语库是保持一致性所必需的。",
                     " In fact, it's indispensable for consistency if different people are translating the same large text simultaneously, collaborating online from different locations.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498904443"
+                    }
                 ],
                 [
                     "Often used interchangeably with *glossary*, but they're not quite the same.",
-                    "",
+                    "通常与词汇表互换使用，但它们并不完全相同。",
                     "\r\n\r\nOften used interchangeably with *glossary*, but they're not quite the same.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498922548"
+                    }
                 ],
                 [
                     "A glossary is usually just a word list in two languages, while term bases have structure and metadata too.",
-                    "",
+                    "词汇表通常只是包含两种语言的单词列表，而术语库有结构信息和元数据。",
                     " A glossary is usually just a word list in two languages, while term bases have structure and metadata too.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498949292"
+                    }
                 ],
                 [
                     "### term extraction",
@@ -4768,17 +4975,23 @@
                 ],
                 [
                     "A function of advanced CAT tools that looks at new source text or a body of existing translations and extracts important words and expressions.",
-                    "",
+                    "高级CAT工具的一种功能，可以从新的源文本或现有翻译对中提取重要的单词和表达。",
                     "\r\nA function of advanced CAT tools that looks at new source text or a body of existing translations and extracts important words and expressions.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553498996683"
+                    }
                 ],
                 [
                     "The output typically contains a lot of “false positives,” but it allows a translator to research important terms before starting to translate, include them in a term base, and make sure they are then translated both correctly and consistently.",
-                    "",
+                    "输出结果通常包含许多错误的术语，但它允许翻译人员在开始翻译之前研究重要的术语，将它们包含在术语库中，确保随后正确地翻译它们，并保持一致性。",
                     " The output typically contains a lot of “false positives,” but it allows a translator to research important terms before starting to translate, include them in a term base, and make sure they are then translated both correctly and consistently.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499067525"
+                    }
                 ],
                 [
                     "### terminology database",
@@ -4812,31 +5025,43 @@
                 ],
                 [
                     "The idea that initially gave rise to commercial translation technology.",
-                    "",
+                    "翻译记忆这一想法产生了最初的商业翻译技术。",
                     "\r\nThe idea that initially gave rise to commercial translation technology.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499104372"
+                    }
                 ],
                 [
                     "Why translate the same sentence twice?",
-                    "",
+                    "为什么要翻译同一句话两次？",
                     " Why translate the same sentence twice?",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499127847"
+                    }
                 ],
                 [
                     "The TM is a “database” of segments and their translations.",
-                    "",
+                    "翻译记忆是存储句段及其翻译的数据库。",
                     " The TM is a “database” of segments and their translations.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499127740"
+                    }
                 ],
                 [
                     "TMs quickly evolved to give a hint also for segments that are only similar (see TM match types), to allow concordance searches, and to support subsegment leverage.",
-                    "",
+                    "翻译记忆技术发展迅速，模糊匹配、检索和子片段匹配是利用翻译记忆的新方式。",
                     " TMs quickly evolved to give a hint also for segments that are only similar (see TM match types), to allow concordance searches, and to support subsegment leverage.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499206827"
+                    }
                 ],
                 [
                     "### TM match types",
@@ -4850,45 +5075,63 @@
                 ],
                 [
                     "Translation memories are big bags full of source segments and their translations.",
-                    "",
+                    "翻译记忆像一个袋子，装着原文句段和其对应的翻译。",
                     "\r\nTranslation memories are big bags full of source segments and their translations.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499263756"
+                    }
                 ],
                 [
                     "When a new segment comes along, CAT tools rack these bags for segments that were translated before, and return these as matches.",
-                    "",
+                    "当新的句段出现时，CAT工具会在这个袋子里寻找以前翻译过的相似句段，并将其作为匹配项返回。",
                     " When a new segment comes along, CAT tools rack these bags for segments that were translated before, and return these as matches.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499313652"
+                    }
                 ],
                 [
                     "If the same sentence is there in the bag, that's an *exact* match, whose match rate is 100%.",
-                    "",
+                    "如果袋子里有相同的句子，那就是一个精确匹配，匹配率为100%。",
                     " If the same sentence is there in the bag, that's an *exact* match, whose match rate is 100%.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499328341"
+                    }
                 ],
                 [
                     "It can get even better: if there's a translation of not only the same segment, but the same segment from the exact same context, that's a *context match* (aka “ICE” for in-context exact).",
-                    "",
+                    "它可以变得更好：如果有一个翻译不仅句段内容相同，而且上下文也完全相同，那就是一个上下文匹配。",
                     " It can get even better: if there's a translation of not only the same segment, but the same segment from the exact same context, that's a *context match* (aka “ICE” for in-context exact).",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499393842"
+                    }
                 ],
                 [
                     "If the best there is is the translation of something similar but not identical, that's a *fuzzy* match with a match rate below 100%.",
-                    "",
+                    "如果匹配率低于100%，那就是模糊匹配。",
                     " If the best there is is the translation of something similar but not identical, that's a *fuzzy* match with a match rate below 100%.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499436874"
+                    }
                 ],
                 [
                     "Often, *high fuzzies* are distinguished: these matches only differ in punctuation, capitalization or numbers, and are therefore easier to fix.",
-                    "",
+                    "通常，高匹配度的模糊匹配价值更大：这些匹配只在标点、大小写或数字上有所不同，因此更易于使用。",
                     " Often, *high fuzzies* are distinguished: these matches only differ in punctuation, capitalization or numbers, and are therefore easier to fix.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499489864"
+                    }
                 ],
                 [
                     "### TM-driven segmentation",
@@ -4902,31 +5145,43 @@
                 ],
                 [
                     "An advanced function of memoQ that dynamically splits or joins segments during pre-translation to get better TM matches.",
-                    "",
+                    "memoQ的一种高级功能，在预翻译时动态分割或合并句段，以获得更好的翻译记忆匹配。",
                     "\r\nAn advanced function of memoQ that dynamically splits or joins segments during pre-translation to get better TM matches.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499539877"
+                    }
                 ],
                 [
                     "It's a simple idea.",
-                    "",
+                    "这个想法很简单。",
                     " It's a simple idea.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499548964"
+                    }
                 ],
                 [
                     "What if a translator joined two segments before storing the translation in the TM, and now the same two segments show up again?",
-                    "",
+                    "如果一个译员在将翻译存储在记忆库之前合并了两个句段，而现在相同的两个句段又出现了呢？",
                     " What if a translator joined two segments before storing the translation in the TM, and now the same two segments show up again?",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499623404"
+                    }
                 ],
                 [
                     "By recognizing this on the spot, the two segments can be joined in the current document too for a perfect match, without human intervention.",
-                    "",
+                    "通过识别这种情况，新的文本中的这两个句段可以得到合并，从而得到一个完美的匹配。",
                     " By recognizing this on the spot, the two segments can be joined in the current document too for a perfect match, without human intervention.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499623404"
+                    }
                 ],
                 [
                     "### TMS; translation management system",
@@ -4940,24 +5195,33 @@
                 ],
                 [
                     "Software that helps you manage translations and organize resources.",
-                    "",
+                    "帮助您管理翻译和组织资源的软件。",
                     "\r\nSoftware that helps you manage translations and organize resources.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499650736"
+                    }
                 ],
                 [
                     "Re: manage, think “these 1500 files must be translated into 25 languages, with 6 translators and 2 reviewers working in parallel for each, making sure that nobody overrides approved translations from the past, and ready by next Monday, with real-time visibility into the project's progress until then.”",
-                    "",
+                    "以下这种情况需要管理：“1500个文件必须翻译成25种语言，6名译员和2名审校同时为每种语言工作，确保没有人覆盖过去批准的翻译，并在下周一前准备好，实时了解项目的进展情况，直到交付。”",
                     " Re: manage, think “these 1500 files must be translated into 25 languages, with 6 translators and 2 reviewers working in parallel for each, making sure that nobody overrides approved translations from the past, and ready by next Monday, with real-time visibility into the project's progress until then.”",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499721977"
+                    }
                 ],
                 [
                     "Re: organize, think “I must find the right translation memories and term bases from among the 2000 resources I have around for various clients and language pairs.”",
-                    "",
+                    "以下这种情况需要组织：“我必须从2000种为不同用户和语言对提供的资源中找到正确的翻译记忆和术语库。”",
                     " Re: organize, think “I must find the right translation memories and term bases from among the 2000 resources I have around for various clients and language pairs.”",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499796003"
+                    }
                 ],
                 [
                     "### TMX; Translation Memory eXchange",
@@ -4971,17 +5235,23 @@
                 ],
                 [
                     "An XML-based format to, well, exchange translation memories.",
-                    "",
+                    "一种基于XML的格式，用来交换翻译记忆。",
                     "\r\nAn XML-based format to, well, exchange translation memories.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499811492"
+                    }
                 ],
                 [
                     "The adoption of this standard was a crucial step in the industry towards interoperability, and at this point virtually all tools support it.",
-                    "",
+                    "采用该标准是业界朝着互操作性迈进的关键一步，目前几乎所有工具都支持该标准。",
                     " The adoption of this standard was a crucial step in the industry towards interoperability, and at this point virtually all tools support it.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499811492"
+                    }
                 ],
                 [
                     "### track changes",
@@ -4995,31 +5265,43 @@
                 ],
                 [
                     "Many regulated industries (like pharma) are required by law to track every change they make to crucial documents, such as the usage instructions and side effects of a medicament.",
-                    "",
+                    "法律要求许多受监管行业（如制药）跟踪其对关键文件所做的每一项更改，例如使用说明和药物的副作用。",
                     "\r\nMany regulated industries (like pharma) are required by law to track every change they make to crucial documents, such as the usage instructions and side effects of a medicament.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499816199"
+                    }
                 ],
                 [
                     "Not only that, but when they sell to multiple markets, they must reproduce all these changes in translated materials too.",
-                    "",
+                    "不仅如此，当他们向多个市场销售时，他们还必须在翻译材料中体现所有这些变化。",
                     " Not only that, but when they sell to multiple markets, they must reproduce all these changes in translated materials too.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499877419"
+                    }
                 ],
                 [
                     "As a translator or LSP, the only way to achieve this without losing your sanity and\/or getting sued out of your profits is if your CAT tool has special functions to both cope with change-tracked documents and preserve the benefits of TMs, term bases, QA and everything else.",
-                    "",
+                    "作为一名翻译人员或LSP，在不丧失理智，不因为追求利润而被起诉的情况下实现这一目标的唯一方法是，您的CAT工具具有特殊功能，既能处理跟踪修改的文档，又能保留翻译记忆、术语库、质量检查和其他所有功能的好处。",
                     " As a translator or LSP, the only way to achieve this without losing your sanity and\/or getting sued out of your profits is if your CAT tool has special functions to both cope with change-tracked documents and preserve the benefits of TMs, term bases, QA and everything else.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553499979116"
+                    }
                 ],
                 [
                     "See also: TC match",
-                    "",
+                    "见跟踪修订匹配（TC match）",
                     "\r\n\r\nSee also: TC match\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500009153"
+                    }
                 ],
                 [
                     "### translation unit",
@@ -5033,17 +5315,23 @@
                 ],
                 [
                     "In a CAT tool, you translate documents segment by segment.",
-                    "",
+                    "在CAT工具中，可以句段为单位翻译文档。",
                     "\r\nIn a CAT tool, you translate documents segment by segment.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500028083"
+                    }
                 ],
                 [
                     "Once you store the translation of a source segment in your TM, the two together, plus some metadata like “who translated this and when,” are bundled up and transmogrified into a translation unit.",
-                    "",
+                    "一旦您将原文句段的翻译存储在TM中，这原文和译文加上一些元数据（如谁翻的，什么时候翻的）就被合在一起转换为一个翻译单元。",
                     " Once you store the translation of a source segment in your TM, the two together, plus some metadata like “who translated this and when,” are bundled up and transmogrified into a translation unit.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500100654"
+                    }
                 ],
                 [
                     "### trash in, trash out",
@@ -5057,52 +5345,73 @@
                 ],
                 [
                     "Imagine you store a nonsense translation in your TM.",
-                    "",
+                    "假设你在你的TM中存储了一个无意义的翻译。",
                     "\r\nImagine you store a nonsense translation in your TM.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500119655"
+                    }
                 ],
                 [
                     "When you receive an updated document, pre-translation picks it up as a perfect match, and you don't even get to see it.",
-                    "",
+                    "当你收到更新的文档时，预翻译会将其视为一个完美的匹配，结果你就没有再看它第二眼。",
                     " When you receive an updated document, pre-translation picks it up as a perfect match, and you don't even get to see it.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500183795"
+                    }
                 ],
                 [
                     "If you train an MT engine with this data, it will produce nonsense translations.",
-                    "",
+                    "如果用这些数据训练一个机器翻译引擎，它将产生质量极差的翻译。",
                     " If you train an MT engine with this data, it will produce nonsense translations.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500208339"
+                    }
                 ],
                 [
                     "Once trash gets into the system, it perpetuates itself.",
-                    "",
+                    "一旦垃圾进入系统，它就会一直存在。",
                     " Once trash gets into the system, it perpetuates itself.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500222862"
+                    }
                 ],
                 [
                     "How do you avoid that?",
-                    "",
+                    "该怎么避免呢？",
                     " How do you avoid that?",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500222771"
+                    }
                 ],
                 [
                     "Through QA, through TEP, through separating working and master TMs, and other similar efforts.",
-                    "",
+                    "通过QA，通过TEP，通过分离工作和主翻译记忆以及其他类似的操作。",
                     " Through QA, through TEP, through separating working and master TMs, and other similar efforts.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500338399"
+                    }
                 ],
                 [
                     "All of which are only possible if you use a CAT tool that allows you centralize your resources, define the right processes, and eliminate error-prone manual steps.",
-                    "",
+                    "这需要你能够集中式管理资源，制定正确的处理流程，避免容易产生错误的手工操作。",
                     " All of which are only possible if you use a CAT tool that allows you centralize your resources, define the right processes, and eliminate error-prone manual steps.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500328187"
+                    }
                 ],
                 [
                     "### two-column Excel",
@@ -5136,38 +5445,53 @@
                 ],
                 [
                     "According to Wikipedia, *Unicode is a computing industry standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems.*",
-                    "",
+                    "根据维基百科，Unicode是一种计算行业标准，用于对世界上大多数书写系统中表示的文本，进行一致的编码、表示和处理。",
                     "\r\nAccording to Wikipedia, *Unicode is a computing industry standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems.*\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500388484"
+                    }
                 ],
                 [
                     "According to me, Unicode is the best thing that has happened since sliced bread.",
-                    "",
+                    "在我看来，Unicode是自切片面包以来人类发明的最好的事情。",
                     "\r\nAccording to me, Unicode is the best thing that has happened since sliced bread.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500408819"
+                    }
                 ],
                 [
                     "It means if you write a text with your own language's special characters, that text can be read by people anywhere in the world, using any gadget with a CPU and a display.",
-                    "",
+                    "这意味着，如果你用你自己语言的特殊字符写一个文本，那么世界上任何地方的人都可以使用任何带有CPU和显示器的设备来阅读该文本。",
                     " It means if you write a text with your own language's special characters, that text can be read by people anywhere in the world, using any gadget with a CPU and a display.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500450702"
+                    }
                 ],
                 [
                     "Even (usually) in Excel.",
-                    "",
+                    "甚至是在Excel里的文本。",
                     " Even (usually) in Excel.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500473576"
+                    }
                 ],
                 [
                     "Nonetheless, to prove that our world is not the best of all possible worlds, you must keep in mind that while Unicode doesn't support Klingon, it does have a character for the handgun emoji.",
-                    "",
+                    "不过，我们的世界不是完美无缺的，你必须记住，虽然Unicode不支持克林贡语，但它确实有手枪的emoji。",
                     "\r\n\r\nNonetheless, to prove that our world is not the best of all possible worlds, you must keep in mind that while Unicode doesn't support Klingon, it does have a character for the handgun emoji.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500547265"
+                    }
                 ],
                 [
                     "### UTF-8",
@@ -5181,10 +5505,13 @@
                 ],
                 [
                     "See Unicode",
-                    "",
+                    "见Unicode",
                     "\r\nSee Unicode\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500570012"
+                    }
                 ],
                 [
                     "### vendor",
@@ -5198,10 +5525,13 @@
                 ],
                 [
                     "In our industry, a person or a business that offers translation services to other persons or businesses.",
-                    "",
+                    "在我们的行业中，为其他人或企业提供翻译服务的人或企业。",
                     "\r\nIn our industry, a person or a business that offers translation services to other persons or businesses.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500575370"
+                    }
                 ],
                 [
                     "### view",
@@ -5215,38 +5545,53 @@
                 ],
                 [
                     "Since CAT tools are apparently great fans of deconstructivism and start their day by tearing text into chunks called segments, you might as well max this out by slicing and dicing the living daylight out of those poor segments.",
-                    "",
+                    "CAT工具显然是解构主义的狂热爱好者，最早的版本就把文本撕成称为句段的片段。你也可以通过视图来充分调用这些句段。",
                     "\r\nSince CAT tools are apparently great fans of deconstructivism and start their day by tearing text into chunks called segments, you might as well max this out by slicing and dicing the living daylight out of those poor segments.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500830165"
+                    }
                 ],
                 [
                     "As in: “I have just turned this User Guide into 1300 segments and pre-translated them.",
-                    "",
+                    "“我刚刚将此用户指南转换为1300个句段，并对其进行了预翻译。",
                     " As in: “I have just turned this User Guide into 1300 segments and pre-translated them.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500694321"
+                    }
                 ],
                 [
                     "Now give me those segments that have no TM match, occur at least twice, and have the words ‘squinting squirrels' in them.",
-                    "",
+                    "现在给我那些没有翻译记忆匹配的片段，要求至少出现两次，其中有单词‘眯眼松鼠’。",
                     " Now give me those segments that have no TM match, occur at least twice, and have the words ‘squinting squirrels' in them.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500737074"
+                    }
                 ],
                 [
                     "Also, show me each segment only once, and order them alphabetically.”",
-                    "",
+                    "另外，给我显示只出现过一次的片段，并且按字母顺序排列。”",
                     " Also, show me each segment only once, and order them alphabetically.”",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500776899"
+                    }
                 ],
                 [
                     "That is the kind of thing that views allow you to do.",
-                    "",
+                    "这是视图允许你做的事。",
                     " That is the kind of thing that views allow you to do.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500787219"
+                    }
                 ],
                 [
                     "### web editor",
@@ -5260,17 +5605,23 @@
                 ],
                 [
                     "A component of CAT tools that allows translators and reviewers in an online project to work from a browser, without installing software on their own computer.",
-                    "",
+                    "CAT工具的一个组件，允许在线项目中的译员和审校在浏览器中工作，而不需要在自己的计算机上安装软件。",
                     "\r\nA component of CAT tools that allows translators and reviewers in an online project to work from a browser, without installing software on their own computer.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500853571"
+                    }
                 ],
                 [
                     "A web editor is to traditional desktop tools as Google Docs is to Word, except advanced CAT tools offer both options (even within the same project) and don't force you to choose between two incompatible companies.",
-                    "",
+                    "Web编辑器对传统的桌面工具来说就像Google Docs之于Word一样。不过高级的CAT工具既提供在线版也提供桌面版，还不强迫您在两个不兼容的公司之间做出选择。",
                     " A web editor is to traditional desktop tools as Google Docs is to Word, except advanced CAT tools offer both options (even within the same project) and don't force you to choose between two incompatible companies.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500936106"
+                    }
                 ],
                 [
                     "### word count",
@@ -5284,10 +5635,13 @@
                 ],
                 [
                     "See analysis",
-                    "",
+                    "见分析（analysis）",
                     "\r\nSee analysis\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500945094"
+                    }
                 ],
                 [
                     "### working, master and reference TM",
@@ -5301,115 +5655,163 @@
                 ],
                 [
                     "Keeping stuff organized is an age-old challenge.",
-                    "",
+                    "保持事物井然有序是一项由来已久的挑战。",
                     "\r\nKeeping stuff organized is an age-old challenge.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500961331"
+                    }
                 ],
                 [
                     "If you don't get it right, you end up with trash in, trash out.",
-                    "",
+                    "如果你不把它处理，结果会是垃圾进，垃圾出。",
                     " If you don't get it right, you end up with trash in, trash out.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553500977700"
+                    }
                 ],
                 [
                     "One way to stay on top of data within a translation project is to designate one TM as the master (translations coming from there get precedence over others); another one as the working TM (new, as-yet unrevised translations get stored there, keeping the master pristine); and the rest as reference (to fill in the gaps that the master does not cover).",
-                    "",
+                    "在翻译项目中，一个好的管理方法是将一个TM指定为主版本（来自主版本的翻译优先于其他版本）；将另一个TM指定为工作TM（新的、未经审校的翻译存储在工作版本中，保持主版本的纯净）；其余翻译记忆则作为参考（主版本TM的内容可能不够全面）。",
                     " One way to stay on top of data within a translation project is to designate one TM as the master (translations coming from there get precedence over others); another one as the working TM (new, as-yet unrevised translations get stored there, keeping the master pristine); and the rest as reference (to fill in the gaps that the master does not cover).",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553501183784"
+                    }
                 ],
                 [
                     "### XLIFF",
-                    "",
+                    "### XLIFF",
                     "\r\n\r\n### XLIFF\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553501207146"
+                    }
                 ],
                 [
                     "Short for XML Localization Interchange File Format, a standard maintained by OASIS.",
-                    "",
+                    "XML本地化交换文件格式的缩写，由OASIS维护的标准。",
                     "\r\nShort for XML Localization Interchange File Format, a standard maintained by OASIS.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553501211629"
+                    }
                 ],
                 [
                     "In practice, it is a file format that allows translatable text to be passed between tools in a source\/target, bilingual form.",
-                    "",
+                    "实际上，它是一种文件格式，允许在源\/目标双语形式的工具之间传递可翻译文本。",
                     " In practice, it is a file format that allows translatable text to be passed between tools in a source\/target, bilingual form.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553501222194"
+                    }
                 ],
                 [
                     "### XML; eXtensible Markup Language",
-                    "",
+                    "### 可扩展标记语言（XML; eXtensible Markup Language）",
                     "\r\n\r\n### XML; eXtensible Markup Language\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553501230962"
+                    }
                 ],
                 [
                     "An extremely versatile format for storing structured information in files that are readable by machines and not *completely* unreadable by humans.",
-                    "",
+                    "一种极为通用的格式，用于将结构化信息存储在机器可读的文件中。对于人来说也具有一定的可读性。",
                     "\r\nAn extremely versatile format for storing structured information in files that are readable by machines and not *completely* unreadable by humans.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553501285618"
+                    }
                 ],
                 [
                     "A tremendous amount of content that gets translated comes from XML files, particularly if the content's source is a CMS system.",
-                    "",
+                    "翻译的大量内容来自XML文件，特别是当内容的来源是CMS系统时。",
                     " A tremendous amount of content that gets translated comes from XML files, particularly if the content's source is a CMS system.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553501299963"
+                    }
                 ],
                 [
                     "You generally don't need to understand the dirty details unless you are a localization engineer, in which case you are a wizard who knows all about file format filters and don't need this glossary anyway.",
-                    "",
+                    "一般来说，除非您是本地化工程师，否则您不需要了解XML的详细信息。",
                     " You generally don't need to understand the dirty details unless you are a localization engineer, in which case you are a wizard who knows all about file format filters and don't need this glossary anyway.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553501360129"
+                    }
                 ],
                 [
                     "### X-translate",
-                    "",
+                    "### X-translate",
                     "\r\n\r\n### X-translate\r\n",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553501374515"
+                    }
                 ],
                 [
                     "So you're half done translating a file, with tons of comments in there and segments in all imaginable statuses.",
-                    "",
+                    "你已经完成了一半的文件翻译工作，其中有大量的评论和状态各不相同的句段。",
                     "\r\nSo you're half done translating a file, with tons of comments in there and segments in all imaginable statuses.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553501401890"
+                    }
                 ],
                 [
                     "At this point your client calls you and says, “Hey, our editors have been busy, we have a revised source file, we actually need you translate that instead of the one from last week.”",
-                    "",
+                    "这时，你的客户打电话给你说：“嘿，我们的编辑很忙，我们有一个修改过的源文件，我们实际上需要你翻译这个文件，而不是上周的那个。”",
                     " At this point your client calls you and says, “Hey, our editors have been busy, we have a revised source file, we actually need you translate that instead of the one from last week.”",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553501427468"
+                    }
                 ],
                 [
                     "If your CAT tool has X-translate, this is not a problem.",
-                    "",
+                    "如果您的CAT工具有X-translate功能，这将不是问题。",
                     " If your CAT tool has X-translate, this is not a problem.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553501452421"
+                    }
                 ],
                 [
                     "The function compares the original source document with the updated source document, going segment by segment, and recreates your work, including comments, ignored QA warnings, segment statuses and all the rest.",
-                    "",
+                    "X-translate将原始源文档与更新的源文档进行比较，逐句段进行，并重新记录你的工作，包括评论、忽略的QA警告、句段状态和所有其他内容。",
                     " The function compares the original source document with the updated source document, going segment by segment, and recreates your work, including comments, ignored QA warnings, segment statuses and all the rest.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553501494481"
+                    }
                 ],
                 [
                     "Whatever changed in the source text is left empty, so you can catch up with the changes and continue where you left off.",
-                    "",
+                    "如果源文本的句段有变化，那就保持一个未翻译的初始状态。这样你可以翻译更改的部分，并在之前停止的地方继续翻译。",
                     " Whatever changed in the source text is left empty, so you can catch up with the changes and continue where you left off.",
                     "The ultimate CAT tool jargon buster.md.txt",
-                    {}
+                    {
+                        "creator": "xulihang",
+                        "createdTime": "1553501589050"
+                    }
                 ]
             ]
         }
