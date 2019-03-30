@@ -3845,12 +3845,12 @@
                 ],
                 [
                     "Regular expressions are a super counter-intuitive but super-useful way to describe exactly these kinds of patterns.",
-                    "正则表达式是一种非常反直观但非常有用的，可以精确描述以上类型内容的模式的方式。",
+                    "正则表达式是一种非常反直觉但非常有用的，可以精确描述以上类型内容的模式的方式。",
                     " Regular expressions are a super counter-intuitive but super-useful way to describe exactly these kinds of patterns.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553492394089"
+                        "createdTime": "1553916747731"
                     }
                 ],
                 [
@@ -5285,12 +5285,12 @@
                 ],
                 [
                     "As a translator or LSP, the only way to achieve this without losing your sanity and\/or getting sued out of your profits is if your CAT tool has special functions to both cope with change-tracked documents and preserve the benefits of TMs, term bases, QA and everything else.",
-                    "作为一名翻译人员或LSP，在不丧失理智，不因为追求利润而被起诉的情况下实现这一目标的唯一方法是，您的CAT工具具有特殊功能，既能处理跟踪修改的文档，又能保留翻译记忆、术语库、质量检查和其他所有功能的好处。",
+                    "作为一名翻译人员或LSP，在不丧失理智，不因为追求利润而被起诉的情况下实现这一目标的唯一方法是，您的CAT工具具有特殊功能，既能处理跟踪修订的文档，又能保留翻译记忆、术语库、质量检查和其他所有功能的好处。",
                     " As a translator or LSP, the only way to achieve this without losing your sanity and\/or getting sued out of your profits is if your CAT tool has special functions to both cope with change-tracked documents and preserve the benefits of TMs, term bases, QA and everything else.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553499979116"
+                        "createdTime": "1553916599142"
                     }
                 ],
                 [
@@ -5315,22 +5315,22 @@
                 ],
                 [
                     "In a CAT tool, you translate documents segment by segment.",
-                    "在CAT工具中，可以句段为单位翻译文档。",
+                    "在CAT工具中，用户以句段为单位翻译文档。",
                     "\r\nIn a CAT tool, you translate documents segment by segment.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553500028083"
+                        "createdTime": "1553916503699"
                     }
                 ],
                 [
                     "Once you store the translation of a source segment in your TM, the two together, plus some metadata like “who translated this and when,” are bundled up and transmogrified into a translation unit.",
-                    "一旦您将原文句段的翻译存储在TM中，这原文和译文加上一些元数据（如谁翻的，什么时候翻的）就被合在一起转换为一个翻译单元。",
+                    "而当把原文句段的翻译存储在TM中时，原文和译文加上一些元数据（如谁翻的，什么时候翻的）就被合在一起转换为一个翻译单元。",
                     " Once you store the translation of a source segment in your TM, the two together, plus some metadata like “who translated this and when,” are bundled up and transmogrified into a translation unit.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553500100654"
+                        "createdTime": "1553916561834"
                     }
                 ],
                 [
