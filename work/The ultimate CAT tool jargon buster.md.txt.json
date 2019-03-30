@@ -216,12 +216,12 @@
                 ],
                 [
                     "Often, when you get a document to translate, you receive a set of previously translated documents along with it, or you can find matching pages on websites.",
-                    "一般你收到一份要翻译的文件时，你还会收到很多之前翻译过的文件和对应的原文，或者你在网络上能找到匹配的内容。",
+                    "一般在收到一份要翻译的文件时，你还会收到很多之前翻译过的文件和对应的原文，或者在网络上能找到匹配的内容。",
                     "\r\nOften, when you get a document to translate, you receive a set of previously translated documents along with it, or you can find matching pages on websites.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1551870814785"
+                        "createdTime": "1553915498708"
                     }
                 ],
                 [
@@ -306,12 +306,12 @@
                 ],
                 [
                     "But you already have TMs with past translations, so you also want to know how much new text there is, and how many fuzzy or exact matches you can expect.",
-                    "但是你已经有了包含过去翻译的翻译记忆，所以您还想知道有多少新的文本需要翻译，有多少模糊匹配和精确匹配。",
+                    "你已经有了存储已有翻译的翻译记忆，所以您还想知道有多少新的文本需要翻译，有多少模糊匹配和精确匹配。",
                     " But you already have TMs with past translations, so you also want to know how much new text there is, and how many fuzzy or exact matches you can expect.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1551878150192"
+                        "createdTime": "1553915563301"
                     }
                 ],
                 [
@@ -1496,42 +1496,42 @@
                 ],
                 [
                     "One key benefit of CAT tools is that you always translate in the same familiar editor, regardless of the file format your text came in.",
-                    "CAT工具的一个主要好处是，无论文本的格式如何，您总是在同一熟悉的编辑器中进行翻译。",
+                    "CAT工具的一个主要好处是，无论文本的格式如何，你总是在同一熟悉的编辑器中进行翻译。",
                     "\r\nOne key benefit of CAT tools is that you always translate in the same familiar editor, regardless of the file format your text came in.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553429576781"
+                        "createdTime": "1553915710120"
                     }
                 ],
                 [
                     "That means CAT tools must somehow extract the text from all the different file formats.",
-                    "这意味着cAT工具必须以某种方式从所有不同的文件格式中提取文本。",
+                    "这意味着CAT工具必须以某种方式从所有不同的文件格式中提取文本。",
                     " That means CAT tools must somehow extract the text from all the different file formats.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553429585573"
+                        "createdTime": "1553915701582"
                     }
                 ],
                 [
                     "The component that does this is called a file format filter: it “filters” text from all the other stuff in the file.",
-                    "执行此操作的组件称为文件格式过滤器：它“过滤”文件中所有其他内容的文本。",
+                    "执行此操作的组件称为文件格式过滤器：它“过滤”掉文件中所有其他内容，仅保留文本。",
                     " The component that does this is called a file format filter: it “filters” text from all the other stuff in the file.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553429599473"
+                        "createdTime": "1553915747420"
                     }
                 ],
                 [
                     "Bringing the text into the CAT tool is called *importing* a file; retrieving the translation in the original format is called *exporting* it.",
-                    "将文本导入CAT工具称为导入文件；以原始格式保存翻译内容称为导出文件。",
+                    "把文件添加到CAT工具称为导入文件；以原始格式保存翻译内容称为导出文件。",
                     " Bringing the text into the CAT tool is called *importing* a file; retrieving the translation in the original format is called *exporting* it.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553429652365"
+                        "createdTime": "1553915776945"
                     }
                 ],
                 [
@@ -1586,22 +1586,22 @@
                 ],
                 [
                     "Many file formats, particularly from DTP tools, tend to use fonts that look really good, but cannot draw a lot of special characters.",
-                    "许多文件格式，特别是DTP工具的文件格式，倾向于使用看起来很好但不能绘制很多特殊字符的字体。",
+                    "许多文件格式，特别是DTP工具的文件格式，倾向于使用一些好看的特殊字体，但这些字体往往支持的字符数量有限。",
                     "\r\nMany file formats, particularly from DTP tools, tend to use fonts that look really good, but cannot draw a lot of special characters.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553429819814"
+                        "createdTime": "1553915919346"
                     }
                 ],
                 [
                     "If your target language happens to have a lot of these, the translated file will look ugly, or skip letters outright.",
-                    "如果您的目标语言恰好有很多这样的内容，那么翻译后的文件会看起来很难看，或者直接不显示某些字符。",
+                    "如果您的目标语言恰好有很多不常见的字符，那么翻译后的文件看起来会很难看，或者直接不显示某些字符。",
                     " If your target language happens to have a lot of these, the translated file will look ugly, or skip letters outright.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553429838941"
+                        "createdTime": "1553915994236"
                     }
                 ],
                 [
@@ -5665,12 +5665,12 @@
                 ],
                 [
                     "If you don't get it right, you end up with trash in, trash out.",
-                    "如果你不把它处理，结果会是垃圾进，垃圾出。",
+                    "如果你不把它处理好，结果会是垃圾进，垃圾出。",
                     " If you don't get it right, you end up with trash in, trash out.",
                     "The ultimate CAT tool jargon buster.md.txt",
                     {
                         "creator": "xulihang",
-                        "createdTime": "1553500977700"
+                        "createdTime": "1553915369966"
                     }
                 ],
                 [
